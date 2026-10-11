@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.26.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.26.1/Nexora-MSME-ERP-Setup-2.26.1.exe",
-    "sha256": "cc9c714835408dbcf1dd407d99b46feafe437e4c0d2a9b30249a876d55de28ec",
-    "sizeBytes": 116381320,
-    "notes": "Every warning a window, a dialog or a screen shows is kept in Tools → Message Log",
-    "publishedAt": "2026-10-11T18:01:18.766Z",
-    "sig": "MEUCIQDcpEwOsKQB2lHmCZY8fLkyRbI0gIaOUAuucLiN1k6CDwIgCd3fHrmvHKvn4Q/vQMdUx0awU/MJARkeRC9+B2IXAig="
+    "version": "2.26.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.26.2/Nexora-MSME-ERP-Setup-2.26.2.exe",
+    "sha256": "40b95ddcc61a8704ccafccde1521e5ec426f05782ee3011cd3bdb4ed51565ce6",
+    "sizeBytes": 116381393,
+    "notes": "A process's window uses its width: Consumes side by side, part weights not cut",
+    "publishedAt": "2026-10-11T18:43:46.118Z",
+    "sig": "MEYCIQCtB5wbFc23z/atUeMQAhuhiQY5gaALb9FNqzpqjQ490AIhAIkGWiX2JHIzTVcEVMAkozhEDV46c2hI+QWz+Kvjuuts"
   },
-  "updatedAt": "2026-10-11T18:01:18.766Z"
+  "updatedAt": "2026-10-11T18:43:46.118Z"
 }
