@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.22.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.22.0/Nexora-MSME-ERP-Setup-2.22.0.exe",
-    "sha256": "7b84eb9e3648a21011ca85f1bb8b8870d6afaa356e189ae09d4c92656512a361",
-    "sizeBytes": 116291417,
-    "notes": "Idle lock set by the administrator, Electron 44, registering fixed, the company's data downloaded, a month of sample data in Test",
-    "publishedAt": "2026-10-11T05:45:54.009Z",
-    "sig": "MEUCIBwR5htYHKplfzeymKWIBaopWS8JQONGAnPOQAEVZhcmAiEArQLqsnq2GF0j2s5hn90zFLmjfr07mruAGyjundP8geU="
+    "version": "2.25.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.25.0/Nexora-MSME-ERP-Setup-2.25.0.exe",
+    "sha256": "0aea2605fde0c2e7e390da27e899c317f61c4aaace590ea039c9df155c2a8550",
+    "sizeBytes": 116352278,
+    "notes": "2.25.0 — ten print designs (the admin chooses one), Sales Quotation, the relationship map by stage, the action bar and right-click on the window in front",
+    "publishedAt": "2026-10-11T15:03:10.128Z",
+    "sig": "MEUCIQCJ6HVoz35yAG/hZ5nlFtYA297qKeksLJCdWPKRUj2RYwIgdq1kdsGnizXYnBqSZVG0SX0cffTNTbJu+mhpmGGUoTs="
   },
-  "updatedAt": "2026-10-11T05:45:54.009Z"
+  "updatedAt": "2026-10-11T15:03:10.128Z"
 }
