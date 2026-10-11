@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.26.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.26.2/Nexora-MSME-ERP-Setup-2.26.2.exe",
-    "sha256": "40b95ddcc61a8704ccafccde1521e5ec426f05782ee3011cd3bdb4ed51565ce6",
-    "sizeBytes": 116381393,
-    "notes": "A process's window uses its width: Consumes side by side, part weights not cut",
-    "publishedAt": "2026-10-11T18:43:46.118Z",
-    "sig": "MEYCIQCtB5wbFc23z/atUeMQAhuhiQY5gaALb9FNqzpqjQ490AIhAIkGWiX2JHIzTVcEVMAkozhEDV46c2hI+QWz+Kvjuuts"
+    "version": "2.27.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.27.0/Nexora-MSME-ERP-Setup-2.27.0.exe",
+    "sha256": "0ba861b192788ad9228ff2a800035b99b18f82724bc1e096f15f2a8e43037688",
+    "sizeBytes": 116395211,
+    "notes": "Nexora AI on a BOM: check, plan, change (a section emptied, a stage off or added) as in Sales & Cost; + Section and ✕ on a section by hand; arrows in a form's rows move between fields.",
+    "publishedAt": "2026-10-11T20:41:44.252Z",
+    "sig": "MEQCIACs8YQ91IBazWzEzRQ6dx/mn4AsVQR0iaH9U8pG0oj7AiAHGTCgt+Vah6LYNBue7OF8Qr8TvmpEUw6iLveHzOR9Lw=="
   },
-  "updatedAt": "2026-10-11T18:43:46.118Z"
+  "updatedAt": "2026-10-11T20:41:44.252Z"
 }
