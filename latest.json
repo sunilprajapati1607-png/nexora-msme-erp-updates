@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.25.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.25.0/Nexora-MSME-ERP-Setup-2.25.0.exe",
-    "sha256": "0aea2605fde0c2e7e390da27e899c317f61c4aaace590ea039c9df155c2a8550",
-    "sizeBytes": 116352278,
-    "notes": "2.25.0 — ten print designs (the admin chooses one), Sales Quotation, the relationship map by stage, the action bar and right-click on the window in front",
-    "publishedAt": "2026-10-11T15:03:10.128Z",
-    "sig": "MEUCIQCJ6HVoz35yAG/hZ5nlFtYA297qKeksLJCdWPKRUj2RYwIgdq1kdsGnizXYnBqSZVG0SX0cffTNTbJu+mhpmGGUoTs="
+    "version": "2.26.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.26.0/Nexora-MSME-ERP-Setup-2.26.0.exe",
+    "sha256": "01727c60714bd01f72803ab9948636358cfb3c99adb6cd41ec5aebba18a7b1bd",
+    "sizeBytes": 116380920,
+    "notes": "Nexora AI searches anything; Goods Receipt and Goods Issue; Ctrl+K; a search in every drop-down; GST from its master; terms remembered by customer",
+    "publishedAt": "2026-10-11T17:40:54.336Z",
+    "sig": "MEUCIHx4tPpZHDmF1NJL80MP1R3a9N2OVPWNfCIpouLW/g6TAiEA3lENBLFyqYkUfzaf/o9izqcjkIGX8d8+RJq4u3K7ZBI="
   },
-  "updatedAt": "2026-10-11T15:03:10.128Z"
+  "updatedAt": "2026-10-11T17:40:54.336Z"
 }
