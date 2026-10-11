@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.19.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.19.0/Nexora-MSME-ERP-Setup-2.19.0.exe",
-    "sha256": "6b57de120d48e93545e50086fbf6816dcd42ac45106b9791315bd437ed0022d8",
-    "sizeBytes": 83581264,
-    "notes": "Dates the company allows, over-issue as a rule, the licence kept by Nexora's service, a sealed installer",
-    "publishedAt": "2026-10-10T14:40:28.817Z",
-    "sig": "MEYCIQD5NAehPFMcFf/Tz8D/zZ3VzUuch2LJerwChn8xYxQESAIhAIPuU+RmyyYWAvoG7tzO+4BUE4wpIqOrBa+3XTzP8ps3"
+    "version": "2.22.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.22.0/Nexora-MSME-ERP-Setup-2.22.0.exe",
+    "sha256": "7b84eb9e3648a21011ca85f1bb8b8870d6afaa356e189ae09d4c92656512a361",
+    "sizeBytes": 116291417,
+    "notes": "Idle lock set by the administrator, Electron 44, registering fixed, the company's data downloaded, a month of sample data in Test",
+    "publishedAt": "2026-10-11T05:45:54.009Z",
+    "sig": "MEUCIBwR5htYHKplfzeymKWIBaopWS8JQONGAnPOQAEVZhcmAiEArQLqsnq2GF0j2s5hn90zFLmjfr07mruAGyjundP8geU="
   },
-  "updatedAt": "2026-10-10T14:40:28.817Z"
+  "updatedAt": "2026-10-11T05:45:54.009Z"
 }
