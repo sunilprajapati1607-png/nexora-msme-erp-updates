@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.27.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.27.0/Nexora-MSME-ERP-Setup-2.27.0.exe",
-    "sha256": "0ba861b192788ad9228ff2a800035b99b18f82724bc1e096f15f2a8e43037688",
-    "sizeBytes": 116395211,
-    "notes": "Nexora AI on a BOM: check, plan, change (a section emptied, a stage off or added) as in Sales & Cost; + Section and ✕ on a section by hand; arrows in a form's rows move between fields.",
-    "publishedAt": "2026-10-11T20:43:08.935Z",
-    "sig": "MEUCIQDbiFKGd36OkSm/e7Z6G5xS21bRXEaJsFFJME7YXC35JAIgW+BsDYFGTOOB5YwUNtKJTk42BtgwblsiBoNKg7AiwIw="
+    "version": "2.28.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.28.0/Nexora-MSME-ERP-Setup-2.28.0.exe",
+    "sha256": "3e7bbf2b35d5320245f33cced465d75a5a27f32dff393668042cbfbcdd2a8f44",
+    "sizeBytes": 116401235,
+    "notes": "+ New from any field (an item, a group, a partner, a process … made from the drop-down itself); Calculation is a module of its own (New Calculation, Records, BOM, BOM Records, Processes, Routes …).",
+    "publishedAt": "2026-10-12T19:50:09.928Z",
+    "sig": "MEQCIA112FbLBGirae5KaehTZ57vbl4pkaXVvsCtXLVwnqTCAiAsCSijIa/tfuZA/uAROaeC0l87zbM0ihMgfY4ZjFp2zA=="
   },
-  "updatedAt": "2026-10-11T20:43:08.935Z"
+  "updatedAt": "2026-10-12T19:50:09.928Z"
 }
