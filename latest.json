@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.30.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.30.0/Nexora-MSME-ERP-Setup-2.30.0.exe",
-    "sha256": "cdf648399991c3b8dd4381231f084fb5daba0635c3e0ca7b0686d5d3462a09fd",
-    "sizeBytes": 116419097,
-    "notes": "A Total under every list: the kg, quantities and amounts of the rows a search and the filters leave.",
-    "publishedAt": "2026-10-13T10:30:58.506Z",
-    "sig": "MEUCIQDN6+1Qmy3f0HH22UB0B4I7wvo7NJ4d76I+jLFA1fGVNgIgIHHOO+WoUd+8tqbYpZVf7BFSE3/6VkrCyTvC2OEmuwA="
+    "version": "2.32.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.32.0/Nexora-MSME-ERP-Setup-2.32.0.exe",
+    "sha256": "71580fa1ab2d8d44c46f55c9dc805021fe3419e6dbaa85f5874fe9365102d369",
+    "sizeBytes": 116448829,
+    "notes": "2.32.0 — e-Invoice (IRN) and e-Way bill files for the GST portals, checked as NIC checks them (switched on in Administration → General settings → GST and TDS; off = only a reminder); the signed QR printed on the tax invoice; Sales → e-Invoices & e-Way bills. With 2.31.0: the customer's account in every sales document's header, Accounts → Payment Reminders (letter and WhatsApp), Sales → Special Prices with quantity breaks; list totals no longer show costs to a person without See costs.",
+    "publishedAt": "2026-10-13T12:35:13.989Z",
+    "sig": "MEUCIQCmsiLdPTJMoIdSLFnYRA8kL0/xHzZlggjpYfxen8D4mAIgP99s723Jhig/Xe+u6/IsxnhrelKFSfqsH/Wv+eW/vbs="
   },
-  "updatedAt": "2026-10-13T10:30:58.506Z"
+  "updatedAt": "2026-10-13T12:35:13.989Z"
 }
