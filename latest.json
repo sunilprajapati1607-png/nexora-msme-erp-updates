@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.28.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.28.0/Nexora-MSME-ERP-Setup-2.28.0.exe",
-    "sha256": "3e7bbf2b35d5320245f33cced465d75a5a27f32dff393668042cbfbcdd2a8f44",
-    "sizeBytes": 116401235,
-    "notes": "+ New from any field (an item, a group, a partner, a process … made from the drop-down itself); Calculation is a module of its own (New Calculation, Records, BOM, BOM Records, Processes, Routes …).",
-    "publishedAt": "2026-10-12T19:50:09.928Z",
-    "sig": "MEQCIA112FbLBGirae5KaehTZ57vbl4pkaXVvsCtXLVwnqTCAiAsCSijIa/tfuZA/uAROaeC0l87zbM0ihMgfY4ZjFp2zA=="
+    "version": "2.28.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.28.1/Nexora-MSME-ERP-Setup-2.28.1.exe",
+    "sha256": "9d05fb373e695754c83c435d4af43e381e7b81fe8d3c1b15246abad1b8742c7b",
+    "sizeBytes": 116402255,
+    "notes": "After the lock the same company (Test stays Test); every window checked — no field runs into the next, ticks on one line, GST % whole, dashboard amounts whole.",
+    "publishedAt": "2026-10-13T03:18:17.147Z",
+    "sig": "MEQCIG2oa4+Ik99gjLx2yXDETRdIheiAt62MtFeStKSaSMb+AiBOXitZ++HqejAV4Qq//0aJWidtECiZRNrJ/ARNR+9efA=="
   },
-  "updatedAt": "2026-10-12T19:50:09.928Z"
+  "updatedAt": "2026-10-13T03:18:17.147Z"
 }
