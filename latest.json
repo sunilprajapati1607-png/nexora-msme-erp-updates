@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.28.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.28.1/Nexora-MSME-ERP-Setup-2.28.1.exe",
-    "sha256": "9d05fb373e695754c83c435d4af43e381e7b81fe8d3c1b15246abad1b8742c7b",
-    "sizeBytes": 116402255,
-    "notes": "After the lock the same company (Test stays Test); every window checked — no field runs into the next, ticks on one line, GST % whole, dashboard amounts whole.",
-    "publishedAt": "2026-10-13T03:18:17.147Z",
-    "sig": "MEQCIG2oa4+Ik99gjLx2yXDETRdIheiAt62MtFeStKSaSMb+AiBOXitZ++HqejAV4Qq//0aJWidtECiZRNrJ/ARNR+9efA=="
+    "version": "2.28.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.28.2/Nexora-MSME-ERP-Setup-2.28.2.exe",
+    "sha256": "76141285f303f5d15c718e3325dab4f8b90d0635252a19189433734d8d2d4ebf",
+    "sizeBytes": 116405040,
+    "notes": "What does not fit shows whole when the pointer rests on it (as in SAP); the GRPO line's item whole, the calculation's construction box, the print design's name with its note.",
+    "publishedAt": "2026-10-13T05:21:46.079Z",
+    "sig": "MEQCIA6qXjnbEFTB/Qlqw+OyoTq/hvsiGpFmEFl4fwmfSH5sAiBllCsF1tK1CLQ2jiGigs1CqldpuODXaJvS3m3tWwWYJA=="
   },
-  "updatedAt": "2026-10-13T03:18:17.147Z"
+  "updatedAt": "2026-10-13T05:21:46.079Z"
 }
