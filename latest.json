@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.29.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.29.0/Nexora-MSME-ERP-Setup-2.29.0.exe",
-    "sha256": "9248d11921eee6c7625358f90498d06eca51d144de65372dc03bb32b36a3cedd",
-    "sizeBytes": 116418287,
-    "notes": "Release: last stage FG, pre-finished before it, every calculation detail; own item fields; typed-word case; production order materials with stock and Total; rows first; the row's item at a glance; menu keys; after an update the same company.",
-    "publishedAt": "2026-10-13T07:55:25.195Z",
-    "sig": "MEQCIARXvfmNzLO1+G5Bi4FHCtiRU8NKn+dA2HNZUtlqmB7xAiA8PCTQ+LUp1bHs5Ce/4RwUGWZ1ofxx9ZsaDnPwKeyJyA=="
+    "version": "2.30.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.30.0/Nexora-MSME-ERP-Setup-2.30.0.exe",
+    "sha256": "cdf648399991c3b8dd4381231f084fb5daba0635c3e0ca7b0686d5d3462a09fd",
+    "sizeBytes": 116419097,
+    "notes": "A Total under every list: the kg, quantities and amounts of the rows a search and the filters leave.",
+    "publishedAt": "2026-10-13T10:30:58.506Z",
+    "sig": "MEUCIQDN6+1Qmy3f0HH22UB0B4I7wvo7NJ4d76I+jLFA1fGVNgIgIHHOO+WoUd+8tqbYpZVf7BFSE3/6VkrCyTvC2OEmuwA="
   },
-  "updatedAt": "2026-10-13T07:55:25.195Z"
+  "updatedAt": "2026-10-13T10:30:58.506Z"
 }
