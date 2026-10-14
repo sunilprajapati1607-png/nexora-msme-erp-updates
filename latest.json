@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.33.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.33.0/Nexora-MSME-ERP-Setup-2.33.0.exe",
-    "sha256": "383e3a29d071ded91048c25d101f9397e0a4ef53af6d78e8d7574d7f2c43a024",
-    "sizeBytes": 116543689,
-    "notes": "2.33.0: TDS (admin switch); Form Settings in every window — stock beside the lines, show/hide, drag or up/down, extra fields, user wise; columns fit; report and screen sorting; golden arrows in every report; faster Relationship Map; the user guide in Hindi.",
-    "publishedAt": "2026-10-14T03:01:07.804Z",
-    "sig": "MEYCIQC4s9ZKoiHXrpwPs/Oft9uQbUrHtu/CJaeZKGaj52r/VAIhAOeQAPIBoxPF99WRLuxLNm28Ii0IgzXtrGdIHailmToE"
+    "version": "2.34.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.34.0/Nexora-MSME-ERP-Setup-2.34.0.exe",
+    "sha256": "289a22656860f192c56ec6941f9d1f93fe37f512f979f79ea3d06c6fa23c09dd",
+    "sizeBytes": 116549925,
+    "notes": "2.34.0: production variance as SAP B1 — each production order keeps its standard cost; its Cost tab shows standard vs actual with material usage, price, by-products and process variance; Reports → Production variance; Progress cost fix.",
+    "publishedAt": "2026-10-14T05:03:15.717Z",
+    "sig": "MEQCIEPO19SjBiZsTT/cgQPV148mqfZYh9bWYUdqAYVR9jLiAiAHEUxtuk+VV//DIBVLSlDuVt3/IoNTtdbpjCUiA5TAKQ=="
   },
-  "updatedAt": "2026-10-14T03:01:07.804Z"
+  "updatedAt": "2026-10-14T05:03:15.717Z"
 }
