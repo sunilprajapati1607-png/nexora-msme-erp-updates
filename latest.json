@@ -6,8 +6,8 @@
     "sha256": "ef0e13f739df2f594c73034589f444890fed6ac4b69ecdbada48f558f72808ff",
     "sizeBytes": 116622191,
     "notes": "2.37.1: the full audit — cancel from the reverse side everywhere, orders never deleted, rights and credit limit on the service; GST with purchase returns and credit notes (GSTR-1 9B), Tally credit/debit notes, TDS, variance; faster screens and calls; UPPER CASE on all data; Business Partner everywhere; production order Process box; tables full width.",
-    "publishedAt": "2026-10-14T20:08:13.726Z",
-    "sig": "MEYCIQCMgxrRnpKhV31mpsjjYrIVB9dvEMIaxOZf4fMwidwopAIhAKp2+nocPlXvzIrAccTJDqIsG5Ipetuqx8Rd/9muypjS"
+    "publishedAt": "2026-10-14T20:10:24.828Z",
+    "sig": "MEQCIDvoV+NRe+2M4++ScoU7qMcjREyJ52HFl+KpWFn2sxpnAiAYMeybhnoXJJLFu5juXrrMg0SHT6jMlMDnZOiNliZVSg=="
   },
-  "updatedAt": "2026-10-14T20:08:13.726Z"
+  "updatedAt": "2026-10-14T20:10:24.828Z"
 }
