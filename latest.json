@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.32.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.32.1/Nexora-MSME-ERP-Setup-2.32.1.exe",
-    "sha256": "d74276890780fca70f947ddfe02c4878737b7b6fd5739790a3bd0f8887ee6af2",
-    "sizeBytes": 116471752,
-    "notes": "2.32.1 — Help → User guide brought up to date (19 chapters, English and Gujarati) with every window up to 2.32; an e-invoiced invoice keeps its IRN and signed QR on every reprint; the signed QR is never re-cased; cancelling an invoice with an IRN or e-way bill reminds you to cancel them on the portal; a reminder letter is noted only when printed; the title names the document in front; messages name today's menus.",
-    "publishedAt": "2026-10-13T14:50:33.107Z",
-    "sig": "MEQCIFS81DkyXSDoYXApP/w1vspA01VHTQny1vFRWQoGbYMCAiAaBiPt4libM0bPy1FMU2/cjmzgaOso6K9k1xrxXnwYLw=="
+    "version": "2.33.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.33.0/Nexora-MSME-ERP-Setup-2.33.0.exe",
+    "sha256": "383e3a29d071ded91048c25d101f9397e0a4ef53af6d78e8d7574d7f2c43a024",
+    "sizeBytes": 116543689,
+    "notes": "2.33.0: TDS (admin switch); Form Settings in every window — stock beside the lines, show/hide, drag or up/down, extra fields, user wise; columns fit; report and screen sorting; golden arrows in every report; faster Relationship Map; the user guide in Hindi.",
+    "publishedAt": "2026-10-14T03:01:07.804Z",
+    "sig": "MEYCIQC4s9ZKoiHXrpwPs/Oft9uQbUrHtu/CJaeZKGaj52r/VAIhAOeQAPIBoxPF99WRLuxLNm28Ii0IgzXtrGdIHailmToE"
   },
-  "updatedAt": "2026-10-13T14:50:33.107Z"
+  "updatedAt": "2026-10-14T03:01:07.804Z"
 }
