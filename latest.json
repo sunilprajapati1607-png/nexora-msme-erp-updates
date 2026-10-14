@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.34.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.34.0/Nexora-MSME-ERP-Setup-2.34.0.exe",
-    "sha256": "289a22656860f192c56ec6941f9d1f93fe37f512f979f79ea3d06c6fa23c09dd",
-    "sizeBytes": 116549925,
-    "notes": "2.34.0: production variance as SAP B1 — each production order keeps its standard cost; its Cost tab shows standard vs actual with material usage, price, by-products and process variance; Reports → Production variance; Progress cost fix.",
-    "publishedAt": "2026-10-14T05:03:15.717Z",
-    "sig": "MEQCIEPO19SjBiZsTT/cgQPV148mqfZYh9bWYUdqAYVR9jLiAiAHEUxtuk+VV//DIBVLSlDuVt3/IoNTtdbpjCUiA5TAKQ=="
+    "version": "2.35.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.35.0/Nexora-MSME-ERP-Setup-2.35.0.exe",
+    "sha256": "49194ad39f9acf45afa56e2fe1687cd55c2829313f3f13d30d075d275dac1b5f",
+    "sizeBytes": 116576327,
+    "notes": "2.35.0: vendor rating and purchase price history; Bars/Line/Pie on every chart, kept per person; hide/show the title and the action bar; Nexora AI Ideas and new searches (TDS, outstanding, vendor rating, prices, variance); every document in the Test sample.",
+    "publishedAt": "2026-10-14T07:37:19.268Z",
+    "sig": "MEQCICLd2lhusgERvj1xV/MIR2TeqNCcw2NaxjbOwA6r4X67AiB3CVWi0V5W2bCBMYD6XNuH9MRrMI0xEjQC6rfj6BVS6w=="
   },
-  "updatedAt": "2026-10-14T05:03:15.717Z"
+  "updatedAt": "2026-10-14T07:37:19.268Z"
 }
