@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.36.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.36.0/Nexora-MSME-ERP-Setup-2.36.0.exe",
-    "sha256": "f4d2d378e6b3dee836187db029f5c51aa468771a5c61d9bd4b4a598802cfb0f0",
-    "sizeBytes": 116595227,
-    "notes": "2.36.0: User-Defined Fields (SAP B1's) for items, partners and documents; rights of their own (quotations, special prices, memos, e-invoices, gate passes, reminders, TDS, print designs, stock value); copy a person exactly; who sees which cost — a document's prices are its own, production cost to production, gross profit with See costs.",
-    "publishedAt": "2026-10-14T11:17:12.226Z",
-    "sig": "MEQCIFmH1j+3h1nwfKhx9A0pj7CQI5E/9JbjTPzuvV/oSA/+AiAv13smmsZ3RJexT2wLteLqxKaK7D5QBaiO0khq9h3tdg=="
+    "version": "2.37.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.37.0/Nexora-MSME-ERP-Setup-2.37.0.exe",
+    "sha256": "896ae8932d32b5d1e97807534e53abeadc7faaf5c7e0aacb5ac88725dfb091a9",
+    "sizeBytes": 116615166,
+    "notes": "2.37.0: cancellation documents (SAP B1's) with their own series — cancel from the reverse side when a batch was used; Cancel a tick of its own; Nexora AI teaches the software step by step and cancels on your word; a blank row in every document; plain rows everywhere; line charts full width; four more colours; Text size works.",
+    "publishedAt": "2026-10-14T14:41:48.341Z",
+    "sig": "MEUCIQDheY9ORNCat9iyc4Uv5GMNvt2g7x1+41jhXaVCTYpxRQIgPznBjl2Y9Wn12h3qx468pG43L2J1uN8vLlckIVR660Q="
   },
-  "updatedAt": "2026-10-14T11:17:12.226Z"
+  "updatedAt": "2026-10-14T14:41:48.341Z"
 }
