@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.38.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.38.0/Nexora-MSME-ERP-Setup-2.38.0.exe",
-    "sha256": "bcbc54c17de80febcd5f2dccacfe214e297b1e2980e450595f265ce0c84946ad",
-    "sizeBytes": 116626098,
-    "notes": "2.38.0: Backflush (SAP B1's issue method) — the receipt issues Backflush materials by itself (FIFO/LIFO by the item), resources costed into the output; the Production BOM in one table; a line by hand in issue, booking and receipt; bookings in Progress; tables sort by their headings.",
-    "publishedAt": "2026-10-15T03:32:40.061Z",
-    "sig": "MEUCIQDlH5PmFU0hiXilDX4SHx7G2sZVY0XUlIgBhvI9Ag2r6QIgGszfI5EJ3JNNjHVAorW4F1XJEEl5W1An2HiF4a9OkaQ="
+    "version": "2.39.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.39.0/Nexora-MSME-ERP-Setup-2.39.0.exe",
+    "sha256": "0a12b5d91c8a0ec54cf49d3abab60c8fdde92f5e97de3b8f81068926f29d3303",
+    "sizeBytes": 116640747,
+    "notes": "2.39.0: Issue = Receipt (Rules: by the total kg, tolerance %), the provisional booking switched on/off; the production order's Issue column; the issue and booking raw by raw (Required · Alt · Selected · Difference) with SAP B1's batch window (FIFO/LIFO, by hand, the next raw by itself); Match the receipts; receipt labels in one go; production in the customer guide.",
+    "publishedAt": "2026-10-15T20:03:31.482Z",
+    "sig": "MEQCIFV8A2kcT6YDXAJac5XgbpiySq8luNXAV/Ht7kIA5hAiAiAN1nb8qmnHURckgzZisU3NAemO5rqx53IqVq2iHyMFiQ=="
   },
-  "updatedAt": "2026-10-15T03:32:40.061Z"
+  "updatedAt": "2026-10-15T20:03:31.482Z"
 }
