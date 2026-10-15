@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.37.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.37.1/Nexora-MSME-ERP-Setup-2.37.1.exe",
-    "sha256": "ef0e13f739df2f594c73034589f444890fed6ac4b69ecdbada48f558f72808ff",
-    "sizeBytes": 116622191,
-    "notes": "2.37.1: the full audit — cancel from the reverse side everywhere, orders never deleted, rights and credit limit on the service; GST with purchase returns and credit notes (GSTR-1 9B), Tally credit/debit notes, TDS, variance; faster screens and calls; UPPER CASE on all data; Business Partner everywhere; production order Process box; tables full width.",
-    "publishedAt": "2026-10-14T20:10:24.828Z",
-    "sig": "MEQCIDvoV+NRe+2M4++ScoU7qMcjREyJ52HFl+KpWFn2sxpnAiAYMeybhnoXJJLFu5juXrrMg0SHT6jMlMDnZOiNliZVSg=="
+    "version": "2.38.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.38.0/Nexora-MSME-ERP-Setup-2.38.0.exe",
+    "sha256": "bcbc54c17de80febcd5f2dccacfe214e297b1e2980e450595f265ce0c84946ad",
+    "sizeBytes": 116626098,
+    "notes": "2.38.0: Backflush (SAP B1's issue method) — the receipt issues Backflush materials by itself (FIFO/LIFO by the item), resources costed into the output; the Production BOM in one table; a line by hand in issue, booking and receipt; bookings in Progress; tables sort by their headings.",
+    "publishedAt": "2026-10-15T03:32:40.061Z",
+    "sig": "MEUCIQDlH5PmFU0hiXilDX4SHx7G2sZVY0XUlIgBhvI9Ag2r6QIgGszfI5EJ3JNNjHVAorW4F1XJEEl5W1An2HiF4a9OkaQ="
   },
-  "updatedAt": "2026-10-14T20:10:24.828Z"
+  "updatedAt": "2026-10-15T03:32:40.061Z"
 }
