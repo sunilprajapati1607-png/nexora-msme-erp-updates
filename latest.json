@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.39.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.39.0/Nexora-MSME-ERP-Setup-2.39.0.exe",
-    "sha256": "0a12b5d91c8a0ec54cf49d3abab60c8fdde92f5e97de3b8f81068926f29d3303",
-    "sizeBytes": 116640747,
-    "notes": "2.39.0: Issue = Receipt (Rules: by the total kg, tolerance %), the provisional booking switched on/off; the production order's Issue column; the issue and booking raw by raw (Required · Alt · Selected · Difference) with SAP B1's batch window (FIFO/LIFO, by hand, the next raw by itself); Match the receipts; receipt labels in one go; production in the customer guide.",
-    "publishedAt": "2026-10-15T20:03:31.482Z",
-    "sig": "MEQCIFV8A2kcT6YDXAJac5XgbpiySq8luNXAV/Ht7kIA5hAiAiAN1nb8qmnHURckgzZisU3NAemO5rqx53IqVq2iHyMFiQ=="
+    "version": "2.40.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.40.0/Nexora-MSME-ERP-Setup-2.40.0.exe",
+    "sha256": "f767c473dfc12ee79e23ff5038dc450d26690a5b5bdd5e88ebc05e6bf2570f30",
+    "sizeBytes": 116647042,
+    "notes": "2.40.0: SAP B1's Quantity window (issue, booking, receipt — the kg fills the rows by the BOM); the receipt's product and by-products in one table (the row's kg makes its batch); a batch-kept by-product gets its own batch; booking tolerance %; Free the rest of the booking on the issue; Receipt/Issue from the booking, Booking from the issue/receipt, the order's Documents.",
+    "publishedAt": "2026-10-16T02:32:01.202Z",
+    "sig": "MEUCIQDO18XWVPPoCNRCF+yon4krZrUY4zcGOBC5d30p70PKHwIgUM3IwS2pVeKvRNysMV14K8fF8tia/+iJjQsAl+mfOcA="
   },
-  "updatedAt": "2026-10-15T20:03:31.482Z"
+  "updatedAt": "2026-10-16T02:32:01.202Z"
 }
