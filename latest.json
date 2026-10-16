@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.41.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.41.1/Nexora-MSME-ERP-Setup-2.41.1.exe",
-    "sha256": "0f1487338e1f1cdbf6a9fcf729f57915f7e49facf3c9987f1d3e6912c62d8af4",
-    "sizeBytes": 116658298,
-    "notes": "2.41.1: the receipt's price (estimate before Save, real once posted), a by-product's rate typed or its last posting rate, waste is a by-product, totals for the new columns, the production order laid out as SAP B1's (Components, Summary, Steps, Documents)",
-    "publishedAt": "2026-10-16T11:53:36.024Z",
-    "sig": "MEUCIQCZ6LWPKiGl3V+JtICbRp+d6HNbcw5smA3jVW0gx2q6bQIgLRq53GRISvWKg4UaNOL2gMaYFZ8st9KcWxN6xfPlf1M="
+    "version": "2.41.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.41.3/Nexora-MSME-ERP-Setup-2.41.3.exe",
+    "sha256": "02bcb456fef7508b1f51f476ba293be729194417dc9ffc2287ec2c2be349c813",
+    "sizeBytes": 116677564,
+    "notes": "Warehouses row by row (BOM, order, issue, booking, receipt); a disassembly's parts by its BOM and its item issued from where it lies; the item search on the action bar; search with the menu folded; Nexora AI fills an issue or a receipt for the order in front; the Quantity window first on Issue and Receipt with the Issue balance; the batch Take follows the tick; Change Log before and after; production orders' Completed and Remaining.",
+    "publishedAt": "2026-10-16T20:09:57.204Z",
+    "sig": "MEUCIELQKqeEFo6Z/kdOXAj6H24szjashZBZ7EBlF4cdOaKNAiEAnupibko+aqd5vaGLQoIUf11r/Q3m8opZbDbPvv+WO6I="
   },
-  "updatedAt": "2026-10-16T11:53:36.024Z"
+  "updatedAt": "2026-10-16T20:09:57.204Z"
 }
