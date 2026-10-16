@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.40.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.40.0/Nexora-MSME-ERP-Setup-2.40.0.exe",
-    "sha256": "f767c473dfc12ee79e23ff5038dc450d26690a5b5bdd5e88ebc05e6bf2570f30",
-    "sizeBytes": 116647042,
-    "notes": "2.40.0: SAP B1's Quantity window (issue, booking, receipt — the kg fills the rows by the BOM); the receipt's product and by-products in one table (the row's kg makes its batch); a batch-kept by-product gets its own batch; booking tolerance %; Free the rest of the booking on the issue; Receipt/Issue from the booking, Booking from the issue/receipt, the order's Documents.",
-    "publishedAt": "2026-10-16T02:32:01.202Z",
-    "sig": "MEUCIQDO18XWVPPoCNRCF+yon4krZrUY4zcGOBC5d30p70PKHwIgUM3IwS2pVeKvRNysMV14K8fF8tia/+iJjQsAl+mfOcA="
+    "version": "2.40.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.40.1/Nexora-MSME-ERP-Setup-2.40.1.exe",
+    "sha256": "e7ac2e374e19350ff8cbe194fc3f1ad4f6a8001c2002dc39040e5822d12ee7fc",
+    "sizeBytes": 116646607,
+    "notes": "2.40.1: every screen's own tabs and buttons now have their keyboard letters (Alt + letter) — the left menu no longer takes all of them (Settings → Updates: Update now, Check for updates, the tabs; the taskbar).",
+    "publishedAt": "2026-10-16T04:17:01.122Z",
+    "sig": "MEQCIBRB+93K+5szCR3qRMQxzdm8jeHPD8Uu7AEhneNqLhvKAiAnUdMgdlT7S6mRmJo4QTO1jVG/N2ac3hqq8ltnO9yFjw=="
   },
-  "updatedAt": "2026-10-16T02:32:01.202Z"
+  "updatedAt": "2026-10-16T04:17:01.122Z"
 }
