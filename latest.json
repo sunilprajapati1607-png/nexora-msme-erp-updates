@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.41.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.41.0/Nexora-MSME-ERP-Setup-2.41.0.exe",
-    "sha256": "3cd96b944b2434647edacccf30df33e0194571e3c0729ca4612f9f725e95f3a7",
-    "sizeBytes": 116653064,
-    "notes": "2.41.0: every table as SAP B1's grid; production order Base qty / Planned / Qty (issue, booking and receipt too); the receipt's batch window as a popup, batches under the row; Form Settings on the receipt",
-    "publishedAt": "2026-10-16T09:40:50.398Z",
-    "sig": "MEQCICzTHFnlUGkaPU9Q0ZIlsUCoZ2+2XDlB9SPcFda+/eHOAiAwoCr9nlGL4sCyPDiNHqjzeQn54vdOsJ9VUJi/1q77XQ=="
+    "version": "2.41.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.41.1/Nexora-MSME-ERP-Setup-2.41.1.exe",
+    "sha256": "0f1487338e1f1cdbf6a9fcf729f57915f7e49facf3c9987f1d3e6912c62d8af4",
+    "sizeBytes": 116658298,
+    "notes": "2.41.1: the receipt's price (estimate before Save, real once posted), a by-product's rate typed or its last posting rate, waste is a by-product, totals for the new columns, the production order laid out as SAP B1's (Components, Summary, Steps, Documents)",
+    "publishedAt": "2026-10-16T11:53:36.024Z",
+    "sig": "MEUCIQCZ6LWPKiGl3V+JtICbRp+d6HNbcw5smA3jVW0gx2q6bQIgLRq53GRISvWKg4UaNOL2gMaYFZ8st9KcWxN6xfPlf1M="
   },
-  "updatedAt": "2026-10-16T09:40:50.398Z"
+  "updatedAt": "2026-10-16T11:53:36.024Z"
 }
