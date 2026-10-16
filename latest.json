@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.40.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.40.1/Nexora-MSME-ERP-Setup-2.40.1.exe",
-    "sha256": "e7ac2e374e19350ff8cbe194fc3f1ad4f6a8001c2002dc39040e5822d12ee7fc",
-    "sizeBytes": 116646607,
-    "notes": "2.40.1: every screen's own tabs and buttons now have their keyboard letters (Alt + letter) — the left menu no longer takes all of them (Settings → Updates: Update now, Check for updates, the tabs; the taskbar).",
-    "publishedAt": "2026-10-16T04:17:01.122Z",
-    "sig": "MEQCIBRB+93K+5szCR3qRMQxzdm8jeHPD8Uu7AEhneNqLhvKAiAnUdMgdlT7S6mRmJo4QTO1jVG/N2ac3hqq8ltnO9yFjw=="
+    "version": "2.40.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.40.2/Nexora-MSME-ERP-Setup-2.40.2.exe",
+    "sha256": "0b754f800297400de9dced1b2669cf040a163bc1369ac7230570aa8e7322c972",
+    "sizeBytes": 116646904,
+    "notes": "2.40.2: a keyboard key on every action of every window — a key-cap where the word had no letter free (Papers [B]), every button of a screen (Active / All, tiles, tabs), Sheets = Ctrl+Shift+S; a row's own buttons by Tab.",
+    "publishedAt": "2026-10-16T05:50:34.932Z",
+    "sig": "MEYCIQCzuz+m1+Ej4BXnGSvscewUT5ykJorC5nJDB9j8r4WtWgIhAJ/axcgXobxZ/KmQWI1xejHlPSgqYcsf2Ls2RY2ErWEo"
   },
-  "updatedAt": "2026-10-16T04:17:01.122Z"
+  "updatedAt": "2026-10-16T05:50:34.932Z"
 }
