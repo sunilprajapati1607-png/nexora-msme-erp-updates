@@ -1,13 +1,13 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.41.3",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.41.3/Nexora-MSME-ERP-Setup-2.41.3.exe",
-    "sha256": "02bcb456fef7508b1f51f476ba293be729194417dc9ffc2287ec2c2be349c813",
-    "sizeBytes": 116677564,
-    "notes": "Warehouses row by row (BOM, order, issue, booking, receipt); a disassembly's parts by its BOM and its item issued from where it lies; the item search on the action bar; search with the menu folded; Nexora AI fills an issue or a receipt for the order in front; the Quantity window first on Issue and Receipt with the Issue balance; the batch Take follows the tick; Change Log before and after; production orders' Completed and Remaining.",
-    "publishedAt": "2026-10-16T20:09:57.204Z",
-    "sig": "MEUCIELQKqeEFo6Z/kdOXAj6H24szjashZBZ7EBlF4cdOaKNAiEAnupibko+aqd5vaGLQoIUf11r/Q3m8opZbDbPvv+WO6I="
+    "version": "2.41.4",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.41.4/Nexora-MSME-ERP-Setup-2.41.4.exe",
+    "sha256": "906b9a2427bb86bb274355fc95e7491e907658be2ccc09302bb6be9b96d181bb",
+    "sizeBytes": 116680184,
+    "notes": "Production orders Planned → Release (button, the planner's Release them) → Close / Cancel, Status and Released in the list; a disassembly's Issue fills the item it takes apart; a disassembly gives back what it takes apart — the BOM's by-products and its parts, its Receipt filled from the Issue balance.",
+    "publishedAt": "2026-10-17T07:16:25.941Z",
+    "sig": "MEYCIQCEVwGnJUL1CGUPBX/PmO3bR7K/Vr+8z9qr4T5KOsozwwIhAMAuPhsztMey3lOIWjbYVOf+VNF7rWztH3Llb85PpirD"
   },
-  "updatedAt": "2026-10-16T20:09:57.204Z"
+  "updatedAt": "2026-10-17T07:16:25.941Z"
 }
