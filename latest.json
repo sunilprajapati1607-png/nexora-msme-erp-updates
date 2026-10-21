@@ -6,9 +6,9 @@
     "sha256": "b848c89f7da3bbf147ee47b24dcaebf36e1172fcedb1522791ca23e6666781d1",
     "sizeBytes": 120372773,
     "notes": "2.45.1: Short counted by Available everywhere (with the stock beside it), a BP Item Codes window, a menu opened by Alt takes plain letters, a workflow's purchase request only for bought items with a level.",
-    "publishedAt": "2026-10-21T17:36:45.770Z",
-    "sig": "MEQCIDcxSq1F6gIphC9B934e+HDTFX1XqJahDULrqIBZeceWAiBd/fzGdKQ/3iLZRfw9Cw6PglLf3Rq6OU0NQcGoZC5/Vg==",
-    "sig2": "MEQCICOewjlCUqhuPLfDRKt9vEfkf9tr4YGUw8g61sT1IjXmAiBSU82fogba20TLO9ZJQg+hdsxm32N5rjo4cIP77g7hFg=="
+    "publishedAt": "2026-10-21T17:37:22.912Z",
+    "sig": "MEYCIQDkENoh5HkWc3mJ4JBGWtmGYueWKKopA93y/5eEFPtPzwIhAM84H0csFSrSgTINmcul2S5MAzxytCLn+lfj5DSnMFkt",
+    "sig2": "MEQCIB1KULLAjLSyQ0fRM7LzgzntsC6SHYSfjTRJavy8MSdIAiANjAtsEWbycwmWXWuiupwOkOVU3XR6dZy1H+lXf8kvoA=="
   },
-  "updatedAt": "2026-10-21T17:36:45.770Z"
+  "updatedAt": "2026-10-21T17:37:22.912Z"
 }
