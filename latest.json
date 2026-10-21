@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.44.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.44.0/Nexora-MSME-ERP-Setup-2.44.0.exe",
-    "sha256": "46325c7928337e5b7a3eebdbc3ba9046094db691186123bd633a6bb2b11b6217",
-    "sizeBytes": 120317776,
-    "notes": "2.44.0: the full audit fixed, FIFO or moving average per item, partial receipts with force close, one PC and one phone a person, Local or Nexora Cloud (encrypted), a signed licence. Everyone signs in once again.",
-    "publishedAt": "2026-10-21T11:40:08.075Z",
-    "sig": "MEUCIQDFP6NhtxzZDy1Ztiu0kVKRrtt7O9b3nEa4KgUvIChArAIgVaEyevyRKGohg6jqwr3dCu1qwhvLYmXcDUPxPSp9amk=",
-    "sig2": "MEYCIQDPsfy8J16O19QVMcF4vrAqbxYbkuIByf/4Nb5eUkBM+wIhAMIWiQ9xUJs5ES3jMSSFaqhnqoIsaK6QlcVBVDiy4oFg"
+    "version": "2.45.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.45.0/Nexora-MSME-ERP-Setup-2.45.0.exe",
+    "sha256": "d18550b773acad4bffa213deb99e4e0ee2d0b3e405c797e193dde5dd50f7c60f",
+    "sizeBytes": 120360501,
+    "notes": "2.45.0: editable cells are white (the cell is the field), a short right-click menu with Batches, Shift+F10 menu, Planned and Qty typed in every form, new fields from SAP B1 (Open/Sent on orders, item Inventory tab, transfer rows, UDFs, production order dates).",
+    "publishedAt": "2026-10-21T16:44:35.339Z",
+    "sig": "MEUCIQDzOO35Et565lqTVuAuECnZ1xdCcw/hlSrla/bm8RQIEQIgUjrLSwedPeh6865AOhBtNYXFeI2sNfl+TaAcHHcAoKY=",
+    "sig2": "MEUCIQDQnLyyO++yMog9BDknwmemnGM2J7rjyeUE9d4WJarvIAIgeKnj0Jgsj6wy8/W+zuZSeICn/WvvEsX+/TzyXX9KDa0="
   },
-  "updatedAt": "2026-10-21T11:40:08.075Z"
+  "updatedAt": "2026-10-21T16:44:35.339Z"
 }
