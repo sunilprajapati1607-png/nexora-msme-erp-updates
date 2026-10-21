@@ -6,9 +6,9 @@
     "sha256": "d18550b773acad4bffa213deb99e4e0ee2d0b3e405c797e193dde5dd50f7c60f",
     "sizeBytes": 120360501,
     "notes": "2.45.0: editable cells are white (the cell is the field), a short right-click menu with Batches, Shift+F10 menu, Planned and Qty typed in every form, new fields from SAP B1 (Open/Sent on orders, item Inventory tab, transfer rows, UDFs, production order dates).",
-    "publishedAt": "2026-10-21T16:44:35.339Z",
-    "sig": "MEUCIQDzOO35Et565lqTVuAuECnZ1xdCcw/hlSrla/bm8RQIEQIgUjrLSwedPeh6865AOhBtNYXFeI2sNfl+TaAcHHcAoKY=",
-    "sig2": "MEUCIQDQnLyyO++yMog9BDknwmemnGM2J7rjyeUE9d4WJarvIAIgeKnj0Jgsj6wy8/W+zuZSeICn/WvvEsX+/TzyXX9KDa0="
+    "publishedAt": "2026-10-21T16:49:17.800Z",
+    "sig": "MEQCIAFREsPmBWXJZ7yX53k2uyX9i1/3k7AgSeCe1G3x9h23AiAVZu2PofBT/WnVvJ2TtL4sT35teifq83A+dT1elx9ssQ==",
+    "sig2": "MEUCIQDNTFb01ULvFfcgsu9kW074mxdTSONx2g9B1cn1I+F3WAIgOELLqeU2PGMdkD9T6QXz5wobtnt1LszDek5cloR3tAs="
   },
-  "updatedAt": "2026-10-21T16:44:35.339Z"
+  "updatedAt": "2026-10-21T16:49:17.800Z"
 }
