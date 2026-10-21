@@ -1,13 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.41.4",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.41.4/Nexora-MSME-ERP-Setup-2.41.4.exe",
-    "sha256": "906b9a2427bb86bb274355fc95e7491e907658be2ccc09302bb6be9b96d181bb",
-    "sizeBytes": 116680184,
-    "notes": "Production orders Planned → Release (button, the planner's Release them) → Close / Cancel, Status and Released in the list; a disassembly's Issue fills the item it takes apart; a disassembly gives back what it takes apart — the BOM's by-products and its parts, its Receipt filled from the Issue balance.",
-    "publishedAt": "2026-10-17T07:16:25.941Z",
-    "sig": "MEYCIQCEVwGnJUL1CGUPBX/PmO3bR7K/Vr+8z9qr4T5KOsozwwIhAMAuPhsztMey3lOIWjbYVOf+VNF7rWztH3Llb85PpirD"
+    "version": "2.44.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.44.0/Nexora-MSME-ERP-Setup-2.44.0.exe",
+    "sha256": "46325c7928337e5b7a3eebdbc3ba9046094db691186123bd633a6bb2b11b6217",
+    "sizeBytes": 120317776,
+    "notes": "2.44.0: the full audit fixed, FIFO or moving average per item, partial receipts with force close, one PC and one phone a person, Local or Nexora Cloud (encrypted), a signed licence. Everyone signs in once again.",
+    "publishedAt": "2026-10-21T11:40:08.075Z",
+    "sig": "MEUCIQDFP6NhtxzZDy1Ztiu0kVKRrtt7O9b3nEa4KgUvIChArAIgVaEyevyRKGohg6jqwr3dCu1qwhvLYmXcDUPxPSp9amk=",
+    "sig2": "MEYCIQDPsfy8J16O19QVMcF4vrAqbxYbkuIByf/4Nb5eUkBM+wIhAMIWiQ9xUJs5ES3jMSSFaqhnqoIsaK6QlcVBVDiy4oFg"
   },
-  "updatedAt": "2026-10-17T07:16:25.941Z"
+  "updatedAt": "2026-10-21T11:40:08.075Z"
 }
