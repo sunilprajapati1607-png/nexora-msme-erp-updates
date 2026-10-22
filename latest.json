@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.48.3",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.48.3/Nexora-MSME-ERP-Setup-2.48.3.exe",
-    "sha256": "ff0f1d5c20f66711a2d1c0128f920d37287c523deaccb6fa3ebb4e86353a884c",
-    "sizeBytes": 120539507,
-    "notes": "Jobwork module: inward and outward jobwork plans, inward receipts, jobwork production orders limited to the plan's inward, jobwork challans with e-way bill, outward transfers with one-click return, jobwork invoices and AP invoices; several cycles on one plan.",
-    "publishedAt": "2026-10-22T17:46:21.604Z",
-    "sig": "MEYCIQC4W9t7h9R9QBNuBsWzttMa8z+4z22Vdn0bIXUKh5c32wIhALX74q8Riq5XYSl7YdNjS3tTkkgAFff0oyvlidvCBfJO",
-    "sig2": "MEUCIQCA/8PJOw15BAsZy8gTwRqzla2ZrZk4hOYrJHHNdlMQ5QIgFFcn7fR6Eczoc3YsbuXWYGwAAzHE+/1PjkKo3TzD10g="
+    "version": "2.49.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.49.0/Nexora-MSME-ERP-Setup-2.49.0.exe",
+    "sha256": "622d3afd42f253a9f23653b10a12209231549a3d81574eabff79cf1391f300e4",
+    "sizeBytes": 120553950,
+    "notes": "Jobwork reports by Business Partner with ageing (GST: back within a year), ITC-04 Excel, the jobwork line on the partner card, Needs attention for old transfers.",
+    "publishedAt": "2026-10-22T19:13:18.472Z",
+    "sig": "MEYCIQCwWCF3i4ZKRW0uHlZ8rctHqODUbKmSEC5YoZ8tnB/VSwIhAPuo3Av0UmPngzzyrRH/oFD5QUhUA7LqM1PAg3KTnfss",
+    "sig2": "MEUCIFEkrWbbhZwHUnDobO76GxvajZtSFaTWxksqaWZXIJY2AiEAw8RhNlAo2ShLxOZsS60c4QtkBjPcCgsFF2Jv2s/oPwg="
   },
-  "updatedAt": "2026-10-22T17:46:21.604Z"
+  "updatedAt": "2026-10-22T19:13:18.472Z"
 }
