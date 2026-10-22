@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.45.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.45.2/Nexora-MSME-ERP-Setup-2.45.2.exe",
-    "sha256": "ddb28676fdc20d68149803cd6272bacd11437b252472b1c34054c3e268e4978d",
-    "sizeBytes": 120378033,
-    "notes": "2.45.2: By document | By item switch on every document list (a row per line, with totals, Excel and Print), and no field leaves its column in any dialog.",
-    "publishedAt": "2026-10-22T03:09:09.648Z",
-    "sig": "MEUCIQDp3EYsdun0jd1zztpfHVg+HMgwwtc7Sq+ciWqu+VkjuQIgTaIfs8VhrcoKVqXD+bZa78u75A5LfJAssLOyM020VZI=",
-    "sig2": "MEQCIHUZdgTG23oukutRloytSDM2HrEGuVcVbzt6WYalXVsnAiB6XcY5Vs2wjCPBkXm6d8I2IVmvkaROnw6xbqixwbUMhA=="
+    "version": "2.45.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.45.3/Nexora-MSME-ERP-Setup-2.45.3.exe",
+    "sha256": "bcb6da756056a192774143f6018427ff22d0361d705d008f8229965c3fd6be4b",
+    "sizeBytes": 120378804,
+    "notes": "2.45.3: long choices show whole in their dialogs (Add a user, a new scale set-up, a cost workflow).",
+    "publishedAt": "2026-10-22T05:31:20.307Z",
+    "sig": "MEUCIAXPmoVusLgNPB1n+ye032r7AGHpplHjya8FVPqQxEGnAiEAq8i4cirHinYq32jKhhhX/W2gDnRAr3BsJJ7LvI87gz0=",
+    "sig2": "MEUCIFe/iWWcUTaqk2SPFWO4A+NWz0QS4hBLO4+aEGcUnNuyAiEAyqn8MPL5OCDCtBKsKBajpWnDHqpUN5PPbeS+RwTPleY="
   },
-  "updatedAt": "2026-10-22T03:09:09.648Z"
+  "updatedAt": "2026-10-22T05:31:20.307Z"
 }
