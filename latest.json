@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.46.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.46.2/Nexora-MSME-ERP-Setup-2.46.2.exe",
-    "sha256": "90017339683934892767a13d03063eb6bdff858379180a16241048e184717037",
-    "sizeBytes": 120421457,
-    "notes": "GRPO: each row has its own Into warehouse (Default into fills the rows; QC items stay QC PENDING).",
-    "publishedAt": "2026-10-22T09:45:45.580Z",
-    "sig": "MEUCIA9UAFewmhkrci9ONTKr1czDvZJsCgo2iKx/ilRrqT3iAiEAvTPDVPD/61ixzuUPrSgJUHxZIDX3DbyuUjlYEDw0aeA=",
-    "sig2": "MEUCIQDD9NCD/gNrGoqUeaDq/GbLF/E3VxpDa2hAZpu9q+ZUHgIgNqX0a1jsqpPDGvkn7roGRD13LUDYFObK6eSst1dKL/E="
+    "version": "2.48.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.48.3/Nexora-MSME-ERP-Setup-2.48.3.exe",
+    "sha256": "ff0f1d5c20f66711a2d1c0128f920d37287c523deaccb6fa3ebb4e86353a884c",
+    "sizeBytes": 120539507,
+    "notes": "Jobwork module: inward and outward jobwork plans, inward receipts, jobwork production orders limited to the plan's inward, jobwork challans with e-way bill, outward transfers with one-click return, jobwork invoices and AP invoices; several cycles on one plan.",
+    "publishedAt": "2026-10-22T17:46:21.604Z",
+    "sig": "MEYCIQC4W9t7h9R9QBNuBsWzttMa8z+4z22Vdn0bIXUKh5c32wIhALX74q8Riq5XYSl7YdNjS3tTkkgAFff0oyvlidvCBfJO",
+    "sig2": "MEUCIQCA/8PJOw15BAsZy8gTwRqzla2ZrZk4hOYrJHHNdlMQ5QIgFFcn7fR6Eczoc3YsbuXWYGwAAzHE+/1PjkKo3TzD10g="
   },
-  "updatedAt": "2026-10-22T09:45:45.580Z"
+  "updatedAt": "2026-10-22T17:46:21.604Z"
 }
