@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.46.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.46.1/Nexora-MSME-ERP-Setup-2.46.1.exe",
-    "sha256": "eaa494c42f5d9c4fac209bb0cad6778e2179db3a65e5088fbc85733a5058cc60",
-    "sizeBytes": 120420875,
-    "notes": "Jobwork warehouses (tick, Inward/Outward, partner); Reports → Inventory → Stock by warehouse; customers' jobwork kg kept apart on the Stock screen; jobwork warehouses out of document drop-downs.",
-    "publishedAt": "2026-10-22T09:16:30.874Z",
-    "sig": "MEQCIGQXZgbt8gtOrvpZH7B2KKXOyIy2r41UFoLOpKUlFUF7AiAUaBbgbSGy727hlUzJbPRm0mh8c+frdr2mNGSIJRe6bA==",
-    "sig2": "MEUCIAL5fsY/TUm2+jDNzJHiWVoS/v9zGiRAz2ZXn5QK34H1AiEAkNHvlEmxjjACovMLMGwDgoPjnMVKDRh+PvUazIU7Nt8="
+    "version": "2.46.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.46.2/Nexora-MSME-ERP-Setup-2.46.2.exe",
+    "sha256": "90017339683934892767a13d03063eb6bdff858379180a16241048e184717037",
+    "sizeBytes": 120421457,
+    "notes": "GRPO: each row has its own Into warehouse (Default into fills the rows; QC items stay QC PENDING).",
+    "publishedAt": "2026-10-22T09:45:45.580Z",
+    "sig": "MEUCIA9UAFewmhkrci9ONTKr1czDvZJsCgo2iKx/ilRrqT3iAiEAvTPDVPD/61ixzuUPrSgJUHxZIDX3DbyuUjlYEDw0aeA=",
+    "sig2": "MEUCIQDD9NCD/gNrGoqUeaDq/GbLF/E3VxpDa2hAZpu9q+ZUHgIgNqX0a1jsqpPDGvkn7roGRD13LUDYFObK6eSst1dKL/E="
   },
-  "updatedAt": "2026-10-22T09:16:30.874Z"
+  "updatedAt": "2026-10-22T09:45:45.580Z"
 }
