@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.45.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.45.1/Nexora-MSME-ERP-Setup-2.45.1.exe",
-    "sha256": "b848c89f7da3bbf147ee47b24dcaebf36e1172fcedb1522791ca23e6666781d1",
-    "sizeBytes": 120372773,
-    "notes": "2.45.1: Short counted by Available everywhere (with the stock beside it), a BP Item Codes window, a menu opened by Alt takes plain letters, a workflow's purchase request only for bought items with a level.",
-    "publishedAt": "2026-10-21T17:37:22.912Z",
-    "sig": "MEYCIQDkENoh5HkWc3mJ4JBGWtmGYueWKKopA93y/5eEFPtPzwIhAM84H0csFSrSgTINmcul2S5MAzxytCLn+lfj5DSnMFkt",
-    "sig2": "MEQCIB1KULLAjLSyQ0fRM7LzgzntsC6SHYSfjTRJavy8MSdIAiANjAtsEWbycwmWXWuiupwOkOVU3XR6dZy1H+lXf8kvoA=="
+    "version": "2.45.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.45.2/Nexora-MSME-ERP-Setup-2.45.2.exe",
+    "sha256": "ddb28676fdc20d68149803cd6272bacd11437b252472b1c34054c3e268e4978d",
+    "sizeBytes": 120378033,
+    "notes": "2.45.2: By document | By item switch on every document list (a row per line, with totals, Excel and Print), and no field leaves its column in any dialog.",
+    "publishedAt": "2026-10-22T03:09:09.648Z",
+    "sig": "MEUCIQDp3EYsdun0jd1zztpfHVg+HMgwwtc7Sq+ciWqu+VkjuQIgTaIfs8VhrcoKVqXD+bZa78u75A5LfJAssLOyM020VZI=",
+    "sig2": "MEQCIHUZdgTG23oukutRloytSDM2HrEGuVcVbzt6WYalXVsnAiB6XcY5Vs2wjCPBkXm6d8I2IVmvkaROnw6xbqixwbUMhA=="
   },
-  "updatedAt": "2026-10-21T17:37:22.912Z"
+  "updatedAt": "2026-10-22T03:09:09.648Z"
 }
