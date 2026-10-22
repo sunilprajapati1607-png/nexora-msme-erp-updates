@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.45.3",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.45.3/Nexora-MSME-ERP-Setup-2.45.3.exe",
-    "sha256": "bcb6da756056a192774143f6018427ff22d0361d705d008f8229965c3fd6be4b",
-    "sizeBytes": 120378804,
-    "notes": "2.45.3: long choices show whole in their dialogs (Add a user, a new scale set-up, a cost workflow).",
-    "publishedAt": "2026-10-22T05:31:20.307Z",
-    "sig": "MEUCIAXPmoVusLgNPB1n+ye032r7AGHpplHjya8FVPqQxEGnAiEAq8i4cirHinYq32jKhhhX/W2gDnRAr3BsJJ7LvI87gz0=",
-    "sig2": "MEUCIFe/iWWcUTaqk2SPFWO4A+NWz0QS4hBLO4+aEGcUnNuyAiEAyqn8MPL5OCDCtBKsKBajpWnDHqpUN5PPbeS+RwTPleY="
+    "version": "2.46.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.46.0/Nexora-MSME-ERP-Setup-2.46.0.exe",
+    "sha256": "6d409b0d406aa020933085c3bca2d17d2b33a604ec9f2f295c7f1180e7b3f452",
+    "sizeBytes": 120406937,
+    "notes": "2.46.0: service items (SAC), a service invoice straight from the sales order, and the AP Invoice for services (GST, TDS, vendor ledger, payment).",
+    "publishedAt": "2026-10-22T07:17:00.257Z",
+    "sig": "MEYCIQDZsL5zK5DnBh/maFWsyNfodnEkwNEEJFKPJwQgxUB7tgIhALdrkqS86XDA3KHSE0fT4Qv+faieJxNI5lVI9RpFHf/7",
+    "sig2": "MEYCIQCMNelqz9yvh50yPqsGO4mOyIWtVF7g9WUHYn9WQXnCIgIhAMOGKDiGWGNgnAirZurE11aaQ+C0LA2d0OqCK5jwrP31"
   },
-  "updatedAt": "2026-10-22T05:31:20.307Z"
+  "updatedAt": "2026-10-22T07:17:00.257Z"
 }
