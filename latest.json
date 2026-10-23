@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.49.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.49.0/Nexora-MSME-ERP-Setup-2.49.0.exe",
-    "sha256": "622d3afd42f253a9f23653b10a12209231549a3d81574eabff79cf1391f300e4",
-    "sizeBytes": 120553950,
-    "notes": "Jobwork reports by Business Partner with ageing (GST: back within a year), ITC-04 Excel, the jobwork line on the partner card, Needs attention for old transfers.",
-    "publishedAt": "2026-10-22T19:13:18.472Z",
-    "sig": "MEYCIQCwWCF3i4ZKRW0uHlZ8rctHqODUbKmSEC5YoZ8tnB/VSwIhAPuo3Av0UmPngzzyrRH/oFD5QUhUA7LqM1PAg3KTnfss",
-    "sig2": "MEUCIFEkrWbbhZwHUnDobO76GxvajZtSFaTWxksqaWZXIJY2AiEAw8RhNlAo2ShLxOZsS60c4QtkBjPcCgsFF2Jv2s/oPwg="
+    "version": "2.49.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.49.1/Nexora-MSME-ERP-Setup-2.49.1.exe",
+    "sha256": "d2efc5e8583293f650bdb658580304425052576dba4c9b87006c4c2accb92ffe",
+    "sizeBytes": 120558139,
+    "notes": "Production order Summary in order (Planned, Issue, Receipt, By-product, Process loss, Balance), process cost shown with its source, receipt General tab tables, batch Gross/Net/Tare both ways, batch window back after removing a batch.",
+    "publishedAt": "2026-10-23T17:54:54.443Z",
+    "sig": "MEQCICzF3AIXH8tj8XiRru38dYG53HRZLOFDmMdy8bA3JTPlAiBC2hXNQGu3Yk9UY42oWA+qCV9bfg9zUg/LyWQtyGkooQ==",
+    "sig2": "MEUCIQCqIXrz/vOGzUSOXyQQauNoLxOsaOSJGZOXs3yFSytXZgIgLqoHzZK+VqUgmfjb6P6YKjUzsH+ubGm24l3cJpRdShU="
   },
-  "updatedAt": "2026-10-22T19:13:18.472Z"
+  "updatedAt": "2026-10-23T17:54:54.443Z"
 }
