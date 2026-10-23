@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.49.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.49.1/Nexora-MSME-ERP-Setup-2.49.1.exe",
-    "sha256": "d2efc5e8583293f650bdb658580304425052576dba4c9b87006c4c2accb92ffe",
-    "sizeBytes": 120558139,
-    "notes": "Production order Summary in order (Planned, Issue, Receipt, By-product, Process loss, Balance), process cost shown with its source, receipt General tab tables, batch Gross/Net/Tare both ways, batch window back after removing a batch.",
-    "publishedAt": "2026-10-23T17:54:54.443Z",
-    "sig": "MEQCICzF3AIXH8tj8XiRru38dYG53HRZLOFDmMdy8bA3JTPlAiBC2hXNQGu3Yk9UY42oWA+qCV9bfg9zUg/LyWQtyGkooQ==",
-    "sig2": "MEUCIQCqIXrz/vOGzUSOXyQQauNoLxOsaOSJGZOXs3yFSytXZgIgLqoHzZK+VqUgmfjb6P6YKjUzsH+ubGm24l3cJpRdShU="
+    "version": "2.49.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.49.2/Nexora-MSME-ERP-Setup-2.49.2.exe",
+    "sha256": "c6d78e9d66d83cd87ff4cd1b229d898d9dd8272c3ff92596b2ec1b9805ba3639",
+    "sizeBytes": 120575731,
+    "notes": "Report pre-filters (dates, partner, item group, item; Load / Show all), Nexora AI can build any report incl. item stock postings, menu Alt keys work with a window open, link a stock production order to a sales order later, issue/receipt forms consistent, production order opens on Components.",
+    "publishedAt": "2026-10-23T19:12:59.602Z",
+    "sig": "MEUCIQDoNquR5NxdQQrYuWUdJAVRSKW/vaeHJ7jyanG6/mE2ygIgblYuGcceOz1g1jv8BYD6UZI0C+rIbycUT1NTFqiHsk0=",
+    "sig2": "MEUCIDynIpPRYW+5gsyZBzWVraMF0cMFUeZs2h5dzGFLXh6BAiEA24/ehD6yQ6SMonuQZ8kAfvf8kJMcsn/KhHMvX02eeSg="
   },
-  "updatedAt": "2026-10-23T17:54:54.443Z"
+  "updatedAt": "2026-10-23T19:12:59.602Z"
 }
