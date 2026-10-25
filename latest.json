@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.0/Nexora-MSME-ERP-Setup-2.50.0.exe",
-    "sha256": "badd02ef0d8b13a33bac74c755d0cfb4adf9bef79abb233044263f21d1987167",
-    "sizeBytes": 120645751,
-    "notes": "Tab follows the form, minimise/full screen everywhere, calculator, switches, item search Ctrl+Shift+F; calculation without approval (versions), multi-step stage in the quantity popup with receipts in parts; codes from series, save message everywhere, default warehouse, Database panel, data wipe; bulk actions on ticked rows; golden arrows.",
-    "publishedAt": "2026-10-25T16:46:14.574Z",
-    "sig": "MEUCIQDR4cUXW5Uz+B63i4BkJySfUQPHWhxNBs3RBPPpl0vhYgIgX+B1AXEjMy0Tj0MzJXsx75S8GYftCwIB4Ca88I+rMDY=",
-    "sig2": "MEUCIHvNRzUwSdjf8P4VtPt0J5N/kn+sbAQaUKYGOEhkoiUlAiEAmQ0nMG9+WpDoq/L2AdgnGqLzLGm0ObqFnHAkJfSCeSY="
+    "version": "2.50.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.1/Nexora-MSME-ERP-Setup-2.50.1.exe",
+    "sha256": "3e3bd4951add8e7be4dc6b66c32ce0d72b2da570a5c10e2d0084e8999d0a484b",
+    "sizeBytes": 120659775,
+    "notes": "Multi-step orders: each stage lists its whole BOM (with the input from the step before) in the issue/receipt popups and the FIFO plan; tables look the same before and after save in 11 windows; sales return keeps its challan; guides updated for 2.50 (EN, GU, HI).",
+    "publishedAt": "2026-10-25T18:20:43.824Z",
+    "sig": "MEUCIQCJ3T8UBweUk2isspyu0ItHSVTftzGU3R9l0mj3xFwFUAIgIYl9nQqlR5H+Q9HCD1w2vD239pC20CdYPrOv4ELl5r8=",
+    "sig2": "MEUCIA0E9ljWDOoEySPMh9zHPob83pm0tytLfiBNe1YtW9YMAiEAp9gxESAKI5GA0+yYeJUPFkAuMvGhf2RzRLrtEqw4zI4="
   },
-  "updatedAt": "2026-10-25T16:46:14.574Z"
+  "updatedAt": "2026-10-25T18:20:43.824Z"
 }
