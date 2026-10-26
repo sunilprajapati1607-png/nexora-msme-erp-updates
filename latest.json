@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.1/Nexora-MSME-ERP-Setup-2.50.1.exe",
-    "sha256": "3e3bd4951add8e7be4dc6b66c32ce0d72b2da570a5c10e2d0084e8999d0a484b",
-    "sizeBytes": 120659775,
-    "notes": "Multi-step orders: each stage lists its whole BOM (with the input from the step before) in the issue/receipt popups and the FIFO plan; tables look the same before and after save in 11 windows; sales return keeps its challan; guides updated for 2.50 (EN, GU, HI).",
-    "publishedAt": "2026-10-25T18:20:43.824Z",
-    "sig": "MEUCIQCJ3T8UBweUk2isspyu0ItHSVTftzGU3R9l0mj3xFwFUAIgIYl9nQqlR5H+Q9HCD1w2vD239pC20CdYPrOv4ELl5r8=",
-    "sig2": "MEUCIA0E9ljWDOoEySPMh9zHPob83pm0tytLfiBNe1YtW9YMAiEAp9gxESAKI5GA0+yYeJUPFkAuMvGhf2RzRLrtEqw4zI4="
+    "version": "2.50.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.2/Nexora-MSME-ERP-Setup-2.50.2.exe",
+    "sha256": "dd5800929fafa7eefd6b2335369f52ca47776ecfe93e2895b300e8809ef66369",
+    "sizeBytes": 120702730,
+    "notes": "Multi-step: choose the stage yourself; order cost no longer negative; AP invoice made from GRPO (payment against it; old GRPOs unchanged); batch windows show Kg and Alt with Excel paste; part of a challan can be billed; HSN/GST required at release and a 0% GST warning; lead product details fill a calculation.",
+    "publishedAt": "2026-10-26T18:52:06.432Z",
+    "sig": "MEYCIQDuMkOnTxpwDq9M0BsAcQ+MmLxfGVPXRFPBtscQSniGvAIhAN7X3AramwP1huvFubYmGLunyz4V9coLaMlfXKJ4hpWt",
+    "sig2": "MEYCIQD4QCcN3W0XDj+rjzesuNNAfcdasaQeFTSsTlLn+nUakgIhAI8FDJ3Sy4F32bq1+PaHXa/UcSxoAWY/jGU22WNU112S"
   },
-  "updatedAt": "2026-10-25T18:20:43.824Z"
+  "updatedAt": "2026-10-26T18:52:06.432Z"
 }
