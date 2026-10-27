@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.6",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.6/Nexora-MSME-ERP-Setup-2.50.6.exe",
-    "sha256": "b8ba4d11acf83cbcbf1e5cd1bce8405dabfd15acdb7538e78ea0232e6da5f078",
-    "sizeBytes": 121073003,
-    "notes": "UDFs on any table with formulas written by Nexora AI; payments on account and expense heads (TDS on advances); fixed assets and depreciation; Landed Costs and rate differences that revalue stock; Excel data import for every master; print layout designer (drag and drop, layouts by item group or customer, customer COA) and report designer with My reports; receiving windows show one line with its batches; messages as a top popup.",
-    "publishedAt": "2026-10-27T15:25:10.407Z",
-    "sig": "MEUCIQDhkZ3YP+CvOn6PR3/rBbDx4JVsg7wMEpyZPb2ZXubhMAIgB9bryz44Nx7TA1hDz+b6/hQEhMJxWachQ0Lf/sgec8E=",
-    "sig2": "MEUCICThs/YiFIA/Zawds9ubwScwFcW9zSITLyxduxPkhpdNAiEA5Khb86c+BQu5xTQBng0lYw52t0Nrvu73A5hgv/xe3K8="
+    "version": "2.50.7",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.7/Nexora-MSME-ERP-Setup-2.50.7.exe",
+    "sha256": "c7f5008ca131faffe29b8dc7add502c43679bacb5151c73996899d3c8e25986b",
+    "sizeBytes": 121101385,
+    "notes": "Bags and metres alongside kg everywhere: type bag grams or GPM once in the item master; sales orders show ordered / sent / balance in both units; challans pick batches in bags; e-invoice units (BAG, MTR, KGS); MRP, production, stock, reports, dashboard and Nexora AI in both units.",
+    "publishedAt": "2026-10-27T17:03:59.060Z",
+    "sig": "MEYCIQCmAGCwERhLAZ44RRf4POYm5AYKjtJZL0H8O2H/S9brnAIhAPU4RryhZOMRHVBuZNar5P9+efbFuqgf8+20zcX7zdXn",
+    "sig2": "MEUCIBfIiJo0x8qVFSB4TZ1gxUD8ngNiMBiAf3uQ8lC+QtW5AiEAmLlAbl6rqnDQmGXSJiHGyoqRs0teENGuZ1S/znfiyME="
   },
-  "updatedAt": "2026-10-27T15:25:10.407Z"
+  "updatedAt": "2026-10-27T17:03:59.060Z"
 }
