@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.2/Nexora-MSME-ERP-Setup-2.50.2.exe",
-    "sha256": "dd5800929fafa7eefd6b2335369f52ca47776ecfe93e2895b300e8809ef66369",
-    "sizeBytes": 120702730,
-    "notes": "Multi-step: choose the stage yourself; order cost no longer negative; AP invoice made from GRPO (payment against it; old GRPOs unchanged); batch windows show Kg and Alt with Excel paste; part of a challan can be billed; HSN/GST required at release and a 0% GST warning; lead product details fill a calculation.",
-    "publishedAt": "2026-10-26T18:52:06.432Z",
-    "sig": "MEYCIQDuMkOnTxpwDq9M0BsAcQ+MmLxfGVPXRFPBtscQSniGvAIhAN7X3AramwP1huvFubYmGLunyz4V9coLaMlfXKJ4hpWt",
-    "sig2": "MEYCIQD4QCcN3W0XDj+rjzesuNNAfcdasaQeFTSsTlLn+nUakgIhAI8FDJ3Sy4F32bq1+PaHXa/UcSxoAWY/jGU22WNU112S"
+    "version": "2.50.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.3/Nexora-MSME-ERP-Setup-2.50.3.exe",
+    "sha256": "3ac0b33f79c6cd1acf955e22f10154815bfca5268a1b154a7f7c58f1838fe718",
+    "sizeBytes": 120722250,
+    "notes": "Windows reopen where and how you left them (per user); title buttons together on the right. Full flow and UI audit: production booking per step, credit memo only for billed goods, per-bag orders close, 13 layout fixes. A later production step's receipt issues the step before's output from stock (choose batches). Batch wise valuation: each batch keeps its own cost.",
+    "publishedAt": "2026-10-27T07:39:51.258Z",
+    "sig": "MEYCIQDNzyFKhg9NXHki6J0NV92e2lfuAc8awWkrWevoGIEi/AIhAPtDU1a5vk+XeHZu5HlOTR5hpaGPBfVW7+2yKSl6zqnI",
+    "sig2": "MEUCIGAy+3VDQLV04W0f9xY/pILvsWCrmzO3mEPrziG38XHEAiEAxwwvBx5fKiWfZEQkYyjnPWF37ZFZj0tPUwfmVZwoYNk="
   },
-  "updatedAt": "2026-10-26T18:52:06.432Z"
+  "updatedAt": "2026-10-27T07:39:51.258Z"
 }
