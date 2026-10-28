@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.8",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.8/Nexora-MSME-ERP-Setup-2.50.8.exe",
-    "sha256": "af19ed80802d3d095256383bc71bae10570c532b171eef80c36a353a2cd59fdf",
-    "sizeBytes": 121207192,
-    "notes": "Nexora AI made stronger: stock in user fields (STOCK, STOCKALT, AVAILABLE …), AI designs and changes print layouts and reports, opens any existing layout as a copy, ask answers bags / landed cost / assets / depreciation and corrects itself; answers in your language. Every new document shows its expected number. The calculator pastes where the cursor is.",
-    "publishedAt": "2026-10-28T05:42:38.941Z",
-    "sig": "MEUCIEa6fZfRVJ8eWCz1yM9S9uIc8756Irv086pZeZ9A0boRAiEArp6lz5ka7/2hTEMkmBBTINBnMFx1V6Sx8rmpX7vQCFo=",
-    "sig2": "MEYCIQCIYrohsbLcs1oznYPlmpzfZlmM98LsdlnFQTuB7ZZIlwIhAOv+K7vsTTmBTRjGkjca5EYVZ8g243WdUWSjyZoVCFq8"
+    "version": "2.50.9",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.9/Nexora-MSME-ERP-Setup-2.50.9.exe",
+    "sha256": "545aad554294a3685917ead49e42dd6a5040a19e4c9f66996352ad30422ca210",
+    "sizeBytes": 121314143,
+    "notes": "Nexora AI given per user in Authorizations. Find mode (Ctrl+F) and a Find button; search finds by words. Item master's extra fields as your own fields, with your own tabs. Administration menu in folders; module colours everywhere. Right-click an item for Inventory movement, Inventory audit and Item status. Form Settings on the action bar, the same on every computer, and given to others from Administration. HSN / GST from the item group. Prints fit the page. 164 formula functions.",
+    "publishedAt": "2026-10-28T10:13:20.921Z",
+    "sig": "MEUCIQD8N4U0+EtRizq14RsCQ0HHU8O8Co9LygII+mQrJO9wfgIgNTOGtHAESycz6dd8vPCkb2DeofTdCCbCpbyD/virb+k=",
+    "sig2": "MEYCIQCq7szUwZusy3GLsT7j6Yca/Od+UBRDOwFwr+KRtF1YUAIhAOOFTg1nAJHedAr5j7x7nFe4ZnjvIuO15cVxSl3xH9SO"
   },
-  "updatedAt": "2026-10-28T05:42:38.941Z"
+  "updatedAt": "2026-10-28T10:13:20.921Z"
 }
