@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.7",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.7/Nexora-MSME-ERP-Setup-2.50.7.exe",
-    "sha256": "c7f5008ca131faffe29b8dc7add502c43679bacb5151c73996899d3c8e25986b",
-    "sizeBytes": 121101385,
-    "notes": "Bags and metres alongside kg everywhere: type bag grams or GPM once in the item master; sales orders show ordered / sent / balance in both units; challans pick batches in bags; e-invoice units (BAG, MTR, KGS); MRP, production, stock, reports, dashboard and Nexora AI in both units.",
-    "publishedAt": "2026-10-27T17:03:59.060Z",
-    "sig": "MEYCIQCmAGCwERhLAZ44RRf4POYm5AYKjtJZL0H8O2H/S9brnAIhAPU4RryhZOMRHVBuZNar5P9+efbFuqgf8+20zcX7zdXn",
-    "sig2": "MEUCIBfIiJo0x8qVFSB4TZ1gxUD8ngNiMBiAf3uQ8lC+QtW5AiEAmLlAbl6rqnDQmGXSJiHGyoqRs0teENGuZ1S/znfiyME="
+    "version": "2.50.8",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.8/Nexora-MSME-ERP-Setup-2.50.8.exe",
+    "sha256": "af19ed80802d3d095256383bc71bae10570c532b171eef80c36a353a2cd59fdf",
+    "sizeBytes": 121207192,
+    "notes": "Nexora AI made stronger: stock in user fields (STOCK, STOCKALT, AVAILABLE …), AI designs and changes print layouts and reports, opens any existing layout as a copy, ask answers bags / landed cost / assets / depreciation and corrects itself; answers in your language. Every new document shows its expected number. The calculator pastes where the cursor is.",
+    "publishedAt": "2026-10-28T05:42:38.941Z",
+    "sig": "MEUCIEa6fZfRVJ8eWCz1yM9S9uIc8756Irv086pZeZ9A0boRAiEArp6lz5ka7/2hTEMkmBBTINBnMFx1V6Sx8rmpX7vQCFo=",
+    "sig2": "MEYCIQCIYrohsbLcs1oznYPlmpzfZlmM98LsdlnFQTuB7ZZIlwIhAOv+K7vsTTmBTRjGkjca5EYVZ8g243WdUWSjyZoVCFq8"
   },
-  "updatedAt": "2026-10-27T17:03:59.060Z"
+  "updatedAt": "2026-10-28T05:42:38.941Z"
 }
