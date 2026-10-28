@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.9",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.9/Nexora-MSME-ERP-Setup-2.50.9.exe",
-    "sha256": "545aad554294a3685917ead49e42dd6a5040a19e4c9f66996352ad30422ca210",
-    "sizeBytes": 121314143,
-    "notes": "Nexora AI given per user in Authorizations. Find mode (Ctrl+F) and a Find button; search finds by words. Item master's extra fields as your own fields, with your own tabs. Administration menu in folders; module colours everywhere. Right-click an item for Inventory movement, Inventory audit and Item status. Form Settings on the action bar, the same on every computer, and given to others from Administration. HSN / GST from the item group. Prints fit the page. 164 formula functions.",
-    "publishedAt": "2026-10-28T10:13:20.921Z",
-    "sig": "MEUCIQD8N4U0+EtRizq14RsCQ0HHU8O8Co9LygII+mQrJO9wfgIgNTOGtHAESycz6dd8vPCkb2DeofTdCCbCpbyD/virb+k=",
-    "sig2": "MEYCIQCq7szUwZusy3GLsT7j6Yca/Od+UBRDOwFwr+KRtF1YUAIhAOOFTg1nAJHedAr5j7x7nFe4ZnjvIuO15cVxSl3xH9SO"
+    "version": "2.50.10",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.10/Nexora-MSME-ERP-Setup-2.50.10.exe",
+    "sha256": "6e9dc4463711517fcb1cd7feb067d87405ee058a95e1c414f192b764e4009e56",
+    "sizeBytes": 121412424,
+    "notes": "Help: Feedback and report a problem (Ctrl+Shift+B) with a screen picture and a report number; the user guide updated in English, Gujarati and Hindi. Colours: module colours or your theme in the windows. Widening a column unwraps its text. Design a layout on every print, for those with the right. Nexora AI designs a layout from a picture, PDF or Word file. Tables show at least 5 rows, open large (Ctrl+Shift+L) and scroll past 15 rows. The administrator chooses Nexora AI's languages.",
+    "publishedAt": "2026-10-28T16:18:50.699Z",
+    "sig": "MEUCIGJADk1l6Gy/4kvH9qXe1NyIIB0JIIpMLVyqB3J0/yhdAiEAlQmXpJzA034rLpmmdNH99Dv39j80Zmtrlhy6ZGWynEM=",
+    "sig2": "MEUCIQDEm46gSNFUzprwtlJg4dFpW+Msu6Ak5lhP6TldxX3RQAIgNFvLEQ6+78RrBEVCXR2qudSVS4sKdIKRO+0frCoqIKs="
   },
-  "updatedAt": "2026-10-28T10:13:20.921Z"
+  "updatedAt": "2026-10-28T16:18:50.699Z"
 }
