@@ -6,9 +6,9 @@
     "sha256": "44de299d83d7f72d02ce0e706dce63ce7d35f3223bcb4af2c5a6d6cf69b605e8",
     "sizeBytes": 121818666,
     "notes": "Automatic accounting (Trial Balance, P&L, Balance Sheet, Ledger) from 1-4-2026; asset sale/scrap and monthly depreciation; GSTR-1, GSTR-3B and 2B/IMS; WhatsApp and e-mail from every print and workflow; bank reconciliation from the books; export invoices in IGST; reports by document with batches beneath; item batch transactions; default warehouse in the Inventory tab",
-    "publishedAt": "2026-10-29T18:22:02.262Z",
-    "sig": "MEUCIFMQ7QlROkKEfQRFfije9drJpPSsTaS2G3KPTjkpEFLMAiEAj3WixtM6pLMdPtvkO10++JTjBJmbBomr3lhnlAOQwTo=",
-    "sig2": "MEUCIQCnz+8atVXDwUe8YKgN9K9LJ4Qe+9cfjUSWrHQeqn4iQwIgKyJFvwDjpSl2W656s+IfrE/R1WVJx+MgrQL5hm9l5jU="
+    "publishedAt": "2026-10-29T18:25:55.017Z",
+    "sig": "MEUCIQC59ddiSNyD4lNznful5ZAiC7MRQttsPjlh5UD4R2MqswIgTWtY5CGpFnHp6DJQl2ZmfjvT7PF/WiW1CUE+JE7TDoo=",
+    "sig2": "MEUCIFEyoaP2XdLMXcy/OHJVlqbQXpFQ0yOrJzB4GBSxr2ZzAiEA+4xlr2mMvdr56c5gNqyLHcqR20tM5+Nz2nra7koy/VQ="
   },
-  "updatedAt": "2026-10-29T18:22:02.262Z"
+  "updatedAt": "2026-10-29T18:25:55.017Z"
 }
