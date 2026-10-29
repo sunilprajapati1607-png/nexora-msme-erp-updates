@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.11",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.11/Nexora-MSME-ERP-Setup-2.50.11.exe",
-    "sha256": "1c3e5e623289e87505652a400fe860d42dd7c0cc813d0168fceea3eb8e5064e6",
-    "sizeBytes": 121549456,
-    "notes": "Nexora AI: step-by-step help for 61 whole jobs (jobwork, multi-level orders, layouts, reports …), sales-order and production progress, the whole software and its flow searchable — your figures stay on your computer. Production order Steps: issued, received and balances. Your own tabs on every window. Batch Add-on: batch fields per item group (GPM, GSM by formula) in every batch window, with filters, Excel template and upload. Sign-in in your theme colour.",
-    "publishedAt": "2026-10-29T11:39:51.919Z",
-    "sig": "MEUCIHHPm3WviDxM2D4gNOWKw5HVXnxwFmHv+6jCjbz2ARv9AiEAgI+O91HULChTi4Mj98CwupFkO2ZbOddwxoaJaeBjlKU=",
-    "sig2": "MEYCIQDt4vUUkDxj4k094nfwG0dXgHIiGn1NX22Hxu0msz1cJQIhAMpuTaPGhcYoaIE6qLHFGJyCz/ikG4XDdaoDC3rQFXs8"
+    "version": "2.50.12",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.12/Nexora-MSME-ERP-Setup-2.50.12.exe",
+    "sha256": "44de299d83d7f72d02ce0e706dce63ce7d35f3223bcb4af2c5a6d6cf69b605e8",
+    "sizeBytes": 121818666,
+    "notes": "Automatic accounting (Trial Balance, P&L, Balance Sheet, Ledger) from 1-4-2026; asset sale/scrap and monthly depreciation; GSTR-1, GSTR-3B and 2B/IMS; WhatsApp and e-mail from every print and workflow; bank reconciliation from the books; export invoices in IGST; reports by document with batches beneath; item batch transactions; default warehouse in the Inventory tab",
+    "publishedAt": "2026-10-29T18:22:02.262Z",
+    "sig": "MEUCIFMQ7QlROkKEfQRFfije9drJpPSsTaS2G3KPTjkpEFLMAiEAj3WixtM6pLMdPtvkO10++JTjBJmbBomr3lhnlAOQwTo=",
+    "sig2": "MEUCIQCnz+8atVXDwUe8YKgN9K9LJ4Qe+9cfjUSWrHQeqn4iQwIgKyJFvwDjpSl2W656s+IfrE/R1WVJx+MgrQL5hm9l5jU="
   },
-  "updatedAt": "2026-10-29T11:39:51.919Z"
+  "updatedAt": "2026-10-29T18:22:02.262Z"
 }
