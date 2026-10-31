@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.13",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.13/Nexora-MSME-ERP-Setup-2.50.13.exe",
-    "sha256": "2d5c6c09f3f14208e997a6f7783e28732e048df31bdf416ceddb6629ec6475ba",
-    "sizeBytes": 121831310,
-    "notes": "Production order: warehouse and stock (In stock, Committed, Ordered, Available) on every row of every stage; the issue and receipt windows take the order's warehouse and issue from the one chosen; any sales order can be linked to a production order, semi-finished orders included, with the whole progress on the sales order's Tracker; every report in the menu and its search",
-    "publishedAt": "2026-10-29T19:58:05.971Z",
-    "sig": "MEYCIQDWXZeNByBF3ikkRZF7ckX0HW8SCY5pmzuF16xpDlZ7TgIhANtqLBaOrMpBvtCvzZFG2IEouHWIcHk+wrlj+hNK44na",
-    "sig2": "MEYCIQD68I222riiOVVis0Ft9ZWryHWw4aStl7bGIUNAIEUU6wIhAN89KbZX7xmgbSDECvZhBKunnTSexOmI3ag7PdrUGDwK"
+    "version": "2.50.14",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.14/Nexora-MSME-ERP-Setup-2.50.14.exe",
+    "sha256": "f6610778d9d79bad001bc3e1618912d7ee3d8ea2a281753994d4134a54398676",
+    "sizeBytes": 121832905,
+    "notes": "Production order: the For field is the sales order search (Tab picks the line), one Remark at the bottom left, summary without repeats; buttons the action bar already has are not repeated inside windows (shortcuts unchanged); Tab stays inside the screen; Accounts menu in folders",
+    "publishedAt": "2026-10-31T05:22:30.430Z",
+    "sig": "MEQCICB34f95d/gi6HcRsssPB3xIUbNIgBT7bxn3byM04fdhAiA1YMOlY1IB+GHsF1V6eLlV71t5EZih4DXs2sGH68vJTQ==",
+    "sig2": "MEUCIEJ+6l5A7Z7al8peVaU0dxLdq4bFRnVpxaPabUl+OqhtAiEAwb775vf1hpq4QAka9xm58+zxisCPXwOeifv9Z4hIN+o="
   },
-  "updatedAt": "2026-10-29T19:58:05.971Z"
+  "updatedAt": "2026-10-31T05:22:30.430Z"
 }
