@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.14",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.14/Nexora-MSME-ERP-Setup-2.50.14.exe",
-    "sha256": "f6610778d9d79bad001bc3e1618912d7ee3d8ea2a281753994d4134a54398676",
-    "sizeBytes": 121832905,
-    "notes": "Production order: the For field is the sales order search (Tab picks the line), one Remark at the bottom left, summary without repeats; buttons the action bar already has are not repeated inside windows (shortcuts unchanged); Tab stays inside the screen; Accounts menu in folders",
-    "publishedAt": "2026-10-31T05:22:30.430Z",
-    "sig": "MEQCICB34f95d/gi6HcRsssPB3xIUbNIgBT7bxn3byM04fdhAiA1YMOlY1IB+GHsF1V6eLlV71t5EZih4DXs2sGH68vJTQ==",
-    "sig2": "MEUCIEJ+6l5A7Z7al8peVaU0dxLdq4bFRnVpxaPabUl+OqhtAiEAwb775vf1hpq4QAka9xm58+zxisCPXwOeifv9Z4hIN+o="
+    "version": "2.50.15",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.15/Nexora-MSME-ERP-Setup-2.50.15.exe",
+    "sha256": "62dbe3febdafbb135c46f317a07accc4e902e10bffabc15d350278a0c2d220ac",
+    "sizeBytes": 121855900,
+    "notes": "Print layouts with pages: add pages, a page for each item with its specification (GSM, size, denier, your fields), ready Item specification layouts for quotation / order / invoice / challan, perfect page breaks with the heading repeated and Page x of y; Nexora AI adds pages, sets page breaks and puts fields on a page",
+    "publishedAt": "2026-10-31T06:57:06.288Z",
+    "sig": "MEUCIQDlfs+KOqthtcO/+SiiXKVZANJsGOYvJV/M7zdShCW1EgIgUXlBZ6nExiNvEzwmPLb9a2DaiYaCDADMrpcd+dJviNk=",
+    "sig2": "MEQCIEv3oqur2yvkU0cl6z0C0d+NFTiKS0trnllH/i2BxtEyAiB9MENaNL6BpZ2hc0vm7csMGLxTsDnN3k3niSvxfgBxCg=="
   },
-  "updatedAt": "2026-10-31T05:22:30.430Z"
+  "updatedAt": "2026-10-31T06:57:06.288Z"
 }
