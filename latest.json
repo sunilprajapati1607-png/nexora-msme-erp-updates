@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.15",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.15/Nexora-MSME-ERP-Setup-2.50.15.exe",
-    "sha256": "62dbe3febdafbb135c46f317a07accc4e902e10bffabc15d350278a0c2d220ac",
-    "sizeBytes": 121855900,
-    "notes": "Print layouts with pages: add pages, a page for each item with its specification (GSM, size, denier, your fields), ready Item specification layouts for quotation / order / invoice / challan, perfect page breaks with the heading repeated and Page x of y; Nexora AI adds pages, sets page breaks and puts fields on a page",
-    "publishedAt": "2026-10-31T06:57:06.288Z",
-    "sig": "MEUCIQDlfs+KOqthtcO/+SiiXKVZANJsGOYvJV/M7zdShCW1EgIgUXlBZ6nExiNvEzwmPLb9a2DaiYaCDADMrpcd+dJviNk=",
-    "sig2": "MEQCIEv3oqur2yvkU0cl6z0C0d+NFTiKS0trnllH/i2BxtEyAiB9MENaNL6BpZ2hc0vm7csMGLxTsDnN3k3niSvxfgBxCg=="
+    "version": "2.50.16",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.16/Nexora-MSME-ERP-Setup-2.50.16.exe",
+    "sha256": "38ac25300412d74f1fae7b5c72c9b68f182747fddbc78e1f64eb67484521b013",
+    "sizeBytes": 122113091,
+    "notes": "Payment terms and addresses everywhere; documents close themselves and lock after saving; one save confirmation; Enter saves; SO tracker with linked batches; layouts: spec fields, format painter, terms over pages, our print preview always; field display names; Window menu; My settings with more colours and fonts; golden arrows on every drop-down; BOM tree and BOM AI; GRPO return; AI answers what-is, reads documents from photos and finds exact sizes",
+    "publishedAt": "2026-11-01T16:26:55.615Z",
+    "sig": "MEUCIG3nQVHRXVuZ99e1fkvQSuMi7NbwKtDMA6FqKl2HI2phAiEAu5kaC4VrfH8MTM/Q3xtf67PFk1+0zep1+bq8XmKEsiw=",
+    "sig2": "MEUCIASXeSVlZ7chcqg97+7FqUNvcHcil4JcynIHOVwyRXTbAiEAg3oL1+0EUFIj6xCXj9DkvCLpyrwkxtZ0JZID33kLbgE="
   },
-  "updatedAt": "2026-10-31T06:57:06.288Z"
+  "updatedAt": "2026-11-01T16:26:55.615Z"
 }
