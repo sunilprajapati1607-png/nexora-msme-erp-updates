@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.16",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.16/Nexora-MSME-ERP-Setup-2.50.16.exe",
-    "sha256": "38ac25300412d74f1fae7b5c72c9b68f182747fddbc78e1f64eb67484521b013",
-    "sizeBytes": 122113091,
-    "notes": "Payment terms and addresses everywhere; documents close themselves and lock after saving; one save confirmation; Enter saves; SO tracker with linked batches; layouts: spec fields, format painter, terms over pages, our print preview always; field display names; Window menu; My settings with more colours and fonts; golden arrows on every drop-down; BOM tree and BOM AI; GRPO return; AI answers what-is, reads documents from photos and finds exact sizes",
-    "publishedAt": "2026-11-01T16:26:55.615Z",
-    "sig": "MEUCIG3nQVHRXVuZ99e1fkvQSuMi7NbwKtDMA6FqKl2HI2phAiEAu5kaC4VrfH8MTM/Q3xtf67PFk1+0zep1+bq8XmKEsiw=",
-    "sig2": "MEUCIASXeSVlZ7chcqg97+7FqUNvcHcil4JcynIHOVwyRXTbAiEAg3oL1+0EUFIj6xCXj9DkvCLpyrwkxtZ0JZID33kLbgE="
+    "version": "2.50.17",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.17/Nexora-MSME-ERP-Setup-2.50.17.exe",
+    "sha256": "281cf899a49a99e566ea0b7bddc3eda06df6c8d2c43f5177d720d7bc861f532f",
+    "sizeBytes": 122161630,
+    "notes": "Production: resources chosen on the process, process cost, planner, booking from stock, receipt window fixed, issue only the order's rows; data-integrity fixes (19 holes closed); any warehouse per line; jobwork limited to the customer's warehouses; business partner item catalogue; item name nomenclature; BOM cost vs actual cost report; dashboards drill and scroll; windows tidy-up (one set of buttons, Settings without tabs, errors as toasts, no shaking); terms by module",
+    "publishedAt": "2026-11-02T16:20:04.090Z",
+    "sig": "MEUCIQDPMVeXJSLS5Dbh8LDshh/QQ4zq2VJuqhM88MQDs2WhcQIgJCJagzkgTrNgqz7mQvNYM0znDkd9gir1TLEEEO1ZdJs=",
+    "sig2": "MEUCIHfBwNLN6wovTALJXYe6FMCTJd76xgNwcAgUSQzLu5ljAiEA2qEXCcsHcY3D4MxBehtFqJbKEMEm2lS1eQ3zXithpSg="
   },
-  "updatedAt": "2026-11-01T16:26:55.615Z"
+  "updatedAt": "2026-11-02T16:20:04.090Z"
 }
