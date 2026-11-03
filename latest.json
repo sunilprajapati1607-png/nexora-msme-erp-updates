@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.20",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.20/Nexora-MSME-ERP-Setup-2.50.20.exe",
-    "sha256": "7c781af37892a16d9550378804bb88eb385b36261a03e37696ed9d0881a098fc",
-    "sizeBytes": 122328652,
-    "notes": "Nexora AI: one shared brain for every AI feature (learns company words once, every engine uses them), checks in your words for every document and field; one title bar on every window, report and settings; the same action bar everywhere; arrow keys keep the cursor in issue/receipt/book.",
-    "publishedAt": "2026-11-03T15:36:53.245Z",
-    "sig": "MEUCIDNrMojodS1eCKWgkdxdCfbuV7mZX/nT8WIQ82sQcMHgAiEA2HJ39v9pV8nIjrFpBfvbhUBvQGmbt6ADD7+IQWF0jsk=",
-    "sig2": "MEYCIQCN4LP427/5chGRTG1F+PBGq20PY2YrB8a3okoGkOOwtQIhALsnEeaGJl48aORpKJu/eYBvEgw2NrivU97GGLr2yB3r"
+    "version": "2.50.21",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.21/Nexora-MSME-ERP-Setup-2.50.21.exe",
+    "sha256": "9187dd0840b5da28da57adb11c666703bad8c2bde452fb6e8a66460d0b23feb7",
+    "sizeBytes": 122382436,
+    "notes": "Bulk update through Excel (download, change, preview, apply, undo); every field in column settings with search; faster Nexora AI that opens a report only when it fully answers; item name patterns per sub group, Colour in the calculation, name always editable at release; resizable item search with right-click copy; dashboard Arrange = Done; new 3D View button.",
+    "publishedAt": "2026-11-03T19:06:25.843Z",
+    "sig": "MEUCIQCSXDPgfZY0Oc4ehWzSbFuOoJW0l3WstP6gew69beaHYAIgGi0/f+6wGgVLbJxEFI/9xJLSd5QvD6Ewm66vXkYS4lI=",
+    "sig2": "MEUCIHpyztoPZ55tRftZiU2xEndQ4JJ/mAQS/dGFNwKBs8vmAiEAji8/r/Z92goPiTZU1JsVcDiZR4oju09kxzBJ44A4NV0="
   },
-  "updatedAt": "2026-11-03T15:36:53.245Z"
+  "updatedAt": "2026-11-03T19:06:25.843Z"
 }
