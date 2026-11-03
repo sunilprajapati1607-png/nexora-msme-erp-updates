@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.18",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.18/Nexora-MSME-ERP-Setup-2.50.18.exe",
-    "sha256": "4f5b448b7f6a58f19bb363b7c4632a134fc7826250729fe4a6bd872cbffbd9c9",
-    "sizeBytes": 122185420,
-    "notes": "Accounts and GST checks (blank or wrong GST rate, the same vendor bill twice, memos at the base rate, TDS sections, GSTIN check digit and state); reverse charge on purchase bills and expenses with GSTR-3B 3.1(d) and 4(A)(3); postings locked inside a finalised bank reconciliation; Cost tracking (stage by stage) report; dashboards with gaps, every card movable and empty places; list screens and dashboards with a window title bar in the theme colour",
-    "publishedAt": "2026-11-03T03:02:29.031Z",
-    "sig": "MEYCIQC+bempiLT3KXkXgj3K269IrFhGbWwQnSWuvI6EO6OyTAIhAOsFPK1q55Lnu+c53PlvfIkNM+JrT+TPl4SMOuVhZJT/",
-    "sig2": "MEYCIQDjY3+UnH2n64nP9EK/Mu1u4qxpUQybfk5rJjObF5QL7gIhAIJiuuv2M0QkdA45KPnmUmg69wsquNeIfuq55D6HN6i1"
+    "version": "2.50.19",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.19/Nexora-MSME-ERP-Setup-2.50.19.exe",
+    "sha256": "313206de23c6db70ff6e627ef2ceca9b33b10b0517cd4d319e4b27593564f53b",
+    "sizeBytes": 122263374,
+    "notes": "EXIM (export & import: currencies, LUT/IGST, Bill of Entry, exchange gain/loss, USD prints), inactive records hidden from search, Duplicate on every document, Tab opens drop-downs and Esc closes the window, Issue balance in production orders.",
+    "publishedAt": "2026-11-03T10:27:22.927Z",
+    "sig": "MEUCID8QTJSbxsNk/+VJrKc/pfzZGVdZv/g6GtMdiXfvo4zfAiEA7pfT9GxCLyPA86NdL6onE0g3T7uu6GECBH8haxqSk5I=",
+    "sig2": "MEYCIQCtnKJYy6HRdQpj51ER/olCpVHjxZfQh2Fu+LVP4ZPS4gIhAKrQ6ws1wkeSm+VYzffDi0Czp652o8h2lCdSPXRuJDMa"
   },
-  "updatedAt": "2026-11-03T03:02:29.031Z"
+  "updatedAt": "2026-11-03T10:27:22.927Z"
 }
