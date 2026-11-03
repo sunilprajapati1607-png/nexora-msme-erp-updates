@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.19",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.19/Nexora-MSME-ERP-Setup-2.50.19.exe",
-    "sha256": "313206de23c6db70ff6e627ef2ceca9b33b10b0517cd4d319e4b27593564f53b",
-    "sizeBytes": 122263374,
-    "notes": "EXIM (export & import: currencies, LUT/IGST, Bill of Entry, exchange gain/loss, USD prints), inactive records hidden from search, Duplicate on every document, Tab opens drop-downs and Esc closes the window, Issue balance in production orders.",
-    "publishedAt": "2026-11-03T10:27:22.927Z",
-    "sig": "MEUCID8QTJSbxsNk/+VJrKc/pfzZGVdZv/g6GtMdiXfvo4zfAiEA7pfT9GxCLyPA86NdL6onE0g3T7uu6GECBH8haxqSk5I=",
-    "sig2": "MEYCIQCtnKJYy6HRdQpj51ER/olCpVHjxZfQh2Fu+LVP4ZPS4gIhAKrQ6ws1wkeSm+VYzffDi0Czp652o8h2lCdSPXRuJDMa"
+    "version": "2.50.20",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.20/Nexora-MSME-ERP-Setup-2.50.20.exe",
+    "sha256": "7c781af37892a16d9550378804bb88eb385b36261a03e37696ed9d0881a098fc",
+    "sizeBytes": 122328652,
+    "notes": "Nexora AI: one shared brain for every AI feature (learns company words once, every engine uses them), checks in your words for every document and field; one title bar on every window, report and settings; the same action bar everywhere; arrow keys keep the cursor in issue/receipt/book.",
+    "publishedAt": "2026-11-03T15:34:35.976Z",
+    "sig": "MEUCIQDWOIHPhISV2LXY3JnSOm+pIULqCfihBFOnTv8ey/BbUgIgSU0oLIw4lUCaRgD5YvctoYp3+dAmqh6KjFR9bXVJPJk=",
+    "sig2": "MEUCIQDl61hBoZXq8vC5A4jEDap6DsY4YQp5NHlvB0aUnNsqoQIgJQ1uXuN9bKKDHu0EtNN//8Yk7Phd6z38OLdIuPWT04I="
   },
-  "updatedAt": "2026-11-03T10:27:22.927Z"
+  "updatedAt": "2026-11-03T15:34:35.976Z"
 }
