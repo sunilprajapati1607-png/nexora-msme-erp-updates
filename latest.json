@@ -6,9 +6,9 @@
     "sha256": "7c781af37892a16d9550378804bb88eb385b36261a03e37696ed9d0881a098fc",
     "sizeBytes": 122328652,
     "notes": "Nexora AI: one shared brain for every AI feature (learns company words once, every engine uses them), checks in your words for every document and field; one title bar on every window, report and settings; the same action bar everywhere; arrow keys keep the cursor in issue/receipt/book.",
-    "publishedAt": "2026-11-03T15:34:35.976Z",
-    "sig": "MEUCIQDWOIHPhISV2LXY3JnSOm+pIULqCfihBFOnTv8ey/BbUgIgSU0oLIw4lUCaRgD5YvctoYp3+dAmqh6KjFR9bXVJPJk=",
-    "sig2": "MEUCIQDl61hBoZXq8vC5A4jEDap6DsY4YQp5NHlvB0aUnNsqoQIgJQ1uXuN9bKKDHu0EtNN//8Yk7Phd6z38OLdIuPWT04I="
+    "publishedAt": "2026-11-03T15:36:53.245Z",
+    "sig": "MEUCIDNrMojodS1eCKWgkdxdCfbuV7mZX/nT8WIQ82sQcMHgAiEA2HJ39v9pV8nIjrFpBfvbhUBvQGmbt6ADD7+IQWF0jsk=",
+    "sig2": "MEYCIQCN4LP427/5chGRTG1F+PBGq20PY2YrB8a3okoGkOOwtQIhALsnEeaGJl48aORpKJu/eYBvEgw2NrivU97GGLr2yB3r"
   },
-  "updatedAt": "2026-11-03T15:34:35.976Z"
+  "updatedAt": "2026-11-03T15:36:53.245Z"
 }
