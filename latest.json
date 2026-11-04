@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.21",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.21/Nexora-MSME-ERP-Setup-2.50.21.exe",
-    "sha256": "9187dd0840b5da28da57adb11c666703bad8c2bde452fb6e8a66460d0b23feb7",
-    "sizeBytes": 122382436,
-    "notes": "Bulk update through Excel (download, change, preview, apply, undo); every field in column settings with search; faster Nexora AI that opens a report only when it fully answers; item name patterns per sub group, Colour in the calculation, name always editable at release; resizable item search with right-click copy; dashboard Arrange = Done; new 3D View button.",
-    "publishedAt": "2026-11-03T19:06:25.843Z",
-    "sig": "MEUCIQCSXDPgfZY0Oc4ehWzSbFuOoJW0l3WstP6gew69beaHYAIgGi0/f+6wGgVLbJxEFI/9xJLSd5QvD6Ewm66vXkYS4lI=",
-    "sig2": "MEUCIHpyztoPZ55tRftZiU2xEndQ4JJ/mAQS/dGFNwKBs8vmAiEAji8/r/Z92goPiTZU1JsVcDiZR4oju09kxzBJ44A4NV0="
+    "version": "2.50.22",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.22/Nexora-MSME-ERP-Setup-2.50.22.exe",
+    "sha256": "72141fd7fb1ec29296be1984f33fcf5df08154f4bc41209210cb36f96e63afd3",
+    "sizeBytes": 122429222,
+    "notes": "Alt+Up copies the cell above, any letter in a date = today; delete several rows at once; windows open in front; document search (Ctrl+Shift+D); BOM tree prints in colour inside the page; colour picker; item name may be typed; units: sold in, bought in a count with the weighed kg; item Purchase and Sales tabs",
+    "publishedAt": "2026-11-04T12:18:34.909Z",
+    "sig": "MEQCIB2opGUtIiSBzYFvuxSju/nhIDHBHdIAjmZ2Xj7jlSssAiAYSZkztfLnlDGUgrwiRmI7edMZ9NMUEUNDbuReiv5L+Q==",
+    "sig2": "MEUCIEvREDn/W0+n1Iv5J3niEnNHuuxsZB/HL7TG9x+qgL/eAiEA0x3nxi39wtLQCvQMlfnTDjYdPS3l6N3xSudDoFplDsM="
   },
-  "updatedAt": "2026-11-03T19:06:25.843Z"
+  "updatedAt": "2026-11-04T12:18:34.909Z"
 }
