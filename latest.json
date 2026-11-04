@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.22",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.22/Nexora-MSME-ERP-Setup-2.50.22.exe",
-    "sha256": "72141fd7fb1ec29296be1984f33fcf5df08154f4bc41209210cb36f96e63afd3",
-    "sizeBytes": 122429222,
-    "notes": "Alt+Up copies the cell above, any letter in a date = today; delete several rows at once; windows open in front; document search (Ctrl+Shift+D); BOM tree prints in colour inside the page; colour picker; item name may be typed; units: sold in, bought in a count with the weighed kg; item Purchase and Sales tabs",
-    "publishedAt": "2026-11-04T12:18:34.909Z",
-    "sig": "MEQCIB2opGUtIiSBzYFvuxSju/nhIDHBHdIAjmZ2Xj7jlSssAiAYSZkztfLnlDGUgrwiRmI7edMZ9NMUEUNDbuReiv5L+Q==",
-    "sig2": "MEUCIEvREDn/W0+n1Iv5J3niEnNHuuxsZB/HL7TG9x+qgL/eAiEA0x3nxi39wtLQCvQMlfnTDjYdPS3l6N3xSudDoFplDsM="
+    "version": "2.50.23",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.23/Nexora-MSME-ERP-Setup-2.50.23.exe",
+    "sha256": "f3b1a1229c9bffae1712dec3a5bafc778d2cd0ded9329606dae5354eee3ec449",
+    "sizeBytes": 122451396,
+    "notes": "Purchase in Kg + Alt like sales (Alt = the supplier's count, Kg = stock kg, GRPO weighed kg); Inventory, Purchase and Sales inside General; unit fields alike with a live hint; one second unit per item; Inventory unit KG or NOS for spares",
+    "publishedAt": "2026-11-04T16:07:39.314Z",
+    "sig": "MEUCIQC24Ng4tzMyiZMcqz00bXH4Di5ptEXtLKYIRE3yEI7MQAIgF/aoC0Cz+tqRRkS86VOiTHS5NgxCWHn12ds3sDBr0lw=",
+    "sig2": "MEUCIGIuwgO9KunKfCmRbI3sgxgKS+Vd/Dg89pbTQ7JvhruQAiEAuO05cueu32lyfKUX+2ofELN4CvTzKhn2O7c6PVecYUY="
   },
-  "updatedAt": "2026-11-04T12:18:34.909Z"
+  "updatedAt": "2026-11-04T16:07:39.314Z"
 }
