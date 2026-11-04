@@ -6,9 +6,9 @@
     "sha256": "f3b1a1229c9bffae1712dec3a5bafc778d2cd0ded9329606dae5354eee3ec449",
     "sizeBytes": 122451396,
     "notes": "Purchase in Kg + Alt like sales (Alt = the supplier's count, Kg = stock kg, GRPO weighed kg); Inventory, Purchase and Sales inside General; unit fields alike with a live hint; one second unit per item; Inventory unit KG or NOS for spares",
-    "publishedAt": "2026-11-04T16:07:39.314Z",
-    "sig": "MEUCIQC24Ng4tzMyiZMcqz00bXH4Di5ptEXtLKYIRE3yEI7MQAIgF/aoC0Cz+tqRRkS86VOiTHS5NgxCWHn12ds3sDBr0lw=",
-    "sig2": "MEUCIGIuwgO9KunKfCmRbI3sgxgKS+Vd/Dg89pbTQ7JvhruQAiEAuO05cueu32lyfKUX+2ofELN4CvTzKhn2O7c6PVecYUY="
+    "publishedAt": "2026-11-04T16:15:17.004Z",
+    "sig": "MEUCIQDuf4LQjmpStLuY23XjQTxQQOObBMfW+SGzJTu5ZcNwvQIgXQhqvfZ+RpLlZJ9Xd4qYtyTFVLXBzLFYjjyV8dsU0yY=",
+    "sig2": "MEYCIQDzx9Gd9R8YfX3+36FnGfDY8KaEmHEB8KGf1BG8OUanpQIhAOYflymgYQegpj3m/uSYegPJ9WOo0qCIdAP/LwwZ0joB"
   },
-  "updatedAt": "2026-11-04T16:07:39.314Z"
+  "updatedAt": "2026-11-04T16:15:17.004Z"
 }
