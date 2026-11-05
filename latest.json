@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.24",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.24/Nexora-MSME-ERP-Setup-2.50.24.exe",
-    "sha256": "1675e84518cc27c02c08d99cc42e766e167b2fec9328e8e296ed33451b070a04",
-    "sizeBytes": 122466591,
-    "notes": "Drop-downs work in the field (type to filter, list under it, Alt+Up copies the row above); every row one line (unit inside the box); the header's delivery date fills the lines (SO, SQ, PO); Tab keeps its place in the Issue and everywhere",
-    "publishedAt": "2026-11-05T09:00:00.883Z",
-    "sig": "MEQCIDP0p6LUiNtw6s1gk5uVCOpRwXQPHnHufiMqvJP7A9RJAiB2hNOktdCLC8GnM91lARH+3CVH3WKDH2yPmm2JYrTQMA==",
-    "sig2": "MEYCIQCZYp2hOgJHxLN7Iko4cEkibh2RIFckRW2fYniuRDx+IwIhAMOfUCbd3UPRGHWjWsI4f6Y8KZqzHF2OrQ9Oh2hsCmGz"
+    "version": "2.50.25",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.25/Nexora-MSME-ERP-Setup-2.50.25.exe",
+    "sha256": "320295980e2b871cc6a4872169311702d6ae26bcf382b4a6abfb300aff42fa63",
+    "sizeBytes": 122500999,
+    "notes": "Tables built once (sales/purchase order: typing never lost); receipt before issue + Receipt = Issue + production Receipt Return; production order issue & receipt report; sticker copies 1-999 and one sticker per bag; close/cancel at zero balance rule; Rules page laid out",
+    "publishedAt": "2026-11-05T13:18:42.180Z",
+    "sig": "MEUCIQDcSwp7xBWJrNHOI/YcedrchwUFxq6mAZ0sHKXz3uJBWQIgEzm5RnEpZeeN7fLYQ1nH16YLMrymxPkhqL9fR2oy5P8=",
+    "sig2": "MEYCIQCVG3v49cyLgt+f6iHJTaKnutWjG3uTKrbThzeV0qWsNQIhAJhr9n/4zGf5G2Z1fq7HEgMe5QddcohaPqDIVNO30Qy/"
   },
-  "updatedAt": "2026-11-05T09:00:00.883Z"
+  "updatedAt": "2026-11-05T13:18:42.180Z"
 }
