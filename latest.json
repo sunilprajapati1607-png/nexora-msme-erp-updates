@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.23",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.23/Nexora-MSME-ERP-Setup-2.50.23.exe",
-    "sha256": "f3b1a1229c9bffae1712dec3a5bafc778d2cd0ded9329606dae5354eee3ec449",
-    "sizeBytes": 122451396,
-    "notes": "Purchase in Kg + Alt like sales (Alt = the supplier's count, Kg = stock kg, GRPO weighed kg); Inventory, Purchase and Sales inside General; unit fields alike with a live hint; one second unit per item; Inventory unit KG or NOS for spares",
-    "publishedAt": "2026-11-04T16:22:08.623Z",
-    "sig": "MEUCIAg2iW9v87zPqmsv86ZN6Ws6s88WhTaLv4o/ZjWOBgwnAiEAz6odQG0SraT1ZzvtAmxqk+lgTThCSlKcWlFx/JVZ9YQ=",
-    "sig2": "MEYCIQCzyvTbsDzNV+UbMXnYMhzMBJmj5Thmom9C8mCxWGtdFgIhAIGOZWADyVGCVV+qwmYoadwZI/g00rCUcm1VYmccHPl9"
+    "version": "2.50.24",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.24/Nexora-MSME-ERP-Setup-2.50.24.exe",
+    "sha256": "1675e84518cc27c02c08d99cc42e766e167b2fec9328e8e296ed33451b070a04",
+    "sizeBytes": 122466591,
+    "notes": "Drop-downs work in the field (type to filter, list under it, Alt+Up copies the row above); every row one line (unit inside the box); the header's delivery date fills the lines (SO, SQ, PO); Tab keeps its place in the Issue and everywhere",
+    "publishedAt": "2026-11-05T09:00:00.883Z",
+    "sig": "MEQCIDP0p6LUiNtw6s1gk5uVCOpRwXQPHnHufiMqvJP7A9RJAiB2hNOktdCLC8GnM91lARH+3CVH3WKDH2yPmm2JYrTQMA==",
+    "sig2": "MEYCIQCZYp2hOgJHxLN7Iko4cEkibh2RIFckRW2fYniuRDx+IwIhAMOfUCbd3UPRGHWjWsI4f6Y8KZqzHF2OrQ9Oh2hsCmGz"
   },
-  "updatedAt": "2026-11-04T16:22:08.623Z"
+  "updatedAt": "2026-11-05T09:00:00.883Z"
 }
