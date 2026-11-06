@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.26",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.26/Nexora-MSME-ERP-Setup-2.50.26.exe",
-    "sha256": "215a9bc349b2ada7df896b27df3bfccdf553ba3dbcf1eb77787204e297e3fb4c",
-    "sizeBytes": 122532711,
-    "notes": "Tab keeps its field in every window; quick save (one call per posting); production order Summary collapsed and cleaner; Sheets freeze panes + font/fill colour, borders, insert/delete rows; issue & receipt report counts every stage; Nexora AI builds that report",
-    "publishedAt": "2026-11-05T16:03:23.377Z",
-    "sig": "MEUCIQCklbBfhtRkqbYHywpSlUk3fVqyeJwZHSwyxdF73e4t0AIgAgnxzBELV9kPwSBtyS/Vq8o7cUSf7HwZaK4ggkyH6Us=",
-    "sig2": "MEUCIQDYzwR/Q9DsDGOgdp1NIlBEL6+oSMJlmcg095kApgc8uAIgBvF+3Qgzfa5BK0DGSZvUzhOQ901irRzdb+x/B10calM="
+    "version": "2.50.27",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.27/Nexora-MSME-ERP-Setup-2.50.27.exe",
+    "sha256": "870de52c849753caf7551427af8348f701f33ac64e59e34c15d5e60679d22520",
+    "sizeBytes": 122571382,
+    "notes": "Report search and groups, table headings stay at the top, QC from every receipt with parameters from item fields and group/item plans, Ctrl+Up/Down copy, a code for every report, Quality and Jobwork as add-on modules, Mac-like animations.",
+    "publishedAt": "2026-11-06T03:55:17.806Z",
+    "sig": "MEUCIQDMja5mmhRLRs97L7AFhqM5drFFpTPBB360iTilG967xgIgaPDcHJn8A/EQ559xuCyO/eOBiz9rpjEKNPBEMXuP5wE=",
+    "sig2": "MEUCIQC6aLy1gOcVPJrnxwWcvu+q5ATofIY/aqZZt1PlWQcGxgIgYAooKBRW2sNcv7fItFFCl86mckJtLO3VoYoF3iOvdns="
   },
-  "updatedAt": "2026-11-05T16:03:23.377Z"
+  "updatedAt": "2026-11-06T03:55:17.806Z"
 }
