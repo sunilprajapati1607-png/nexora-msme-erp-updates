@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.28",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.28/Nexora-MSME-ERP-Setup-2.50.28.exe",
-    "sha256": "de2eb3632a1ee2aba68b677494fcdd25eb60be69e4fe173538b30b36869655b1",
-    "sizeBytes": 122586174,
-    "notes": "Mac-like animations phase 2 (dock grows and bounces, dialogs slide down, menus fade, smooth maximise), QC units and tolerance (± value / % / Fixed), QC plans by sub group, the item's own value as target at a new inspection.",
-    "publishedAt": "2026-11-07T05:48:25.498Z",
-    "sig": "MEYCIQDOuP0pPqHsSztLFBDjjuLsIeCCVRJNxivr0h1lYS0cSAIhAOefwgmbNgL1yibko0+xRY9bD1MLGLUYggC1i94dtNmI",
-    "sig2": "MEQCID0MnwjXWJ7LHBiqnItcGVrdHq+wnFwamnXsqqQ3lwumAiBmi0pYLCwVB52uMQ3CQIMA9llz2yqiCzj2AuU7d7r6hQ=="
+    "version": "2.50.29",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.29/Nexora-MSME-ERP-Setup-2.50.29.exe",
+    "sha256": "a68e531111ede3d270bb2e97e6aa01b4381b56c88ac8e710f10de880f1ed2afa",
+    "sizeBytes": 122614336,
+    "notes": "QC readings as one grid per item, COA from invoice and challan with samples and average, jobwork integrity fixes, one row height in every table, evenly spaced action bar.",
+    "publishedAt": "2026-11-07T16:28:45.436Z",
+    "sig": "MEUCICUyMcJmBkVPswGKiI4HZySO0w8RIlWv0leSXoihESGEAiEAs7HM9VkW+M8bYoq7qK8hIlXYkezdrBE0lRl821vpX1c=",
+    "sig2": "MEUCIFLsh4Rnqdav4l27AcDRcbRZ44ZVREkai2xu7ENb6feaAiEAtN6Lee3wqBDd8NgV7T1k78eYwW6yE3RhEIDt2Hld/SM="
   },
-  "updatedAt": "2026-11-07T05:48:25.498Z"
+  "updatedAt": "2026-11-07T16:28:45.436Z"
 }
