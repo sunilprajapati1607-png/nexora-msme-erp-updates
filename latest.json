@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.27",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.27/Nexora-MSME-ERP-Setup-2.50.27.exe",
-    "sha256": "870de52c849753caf7551427af8348f701f33ac64e59e34c15d5e60679d22520",
-    "sizeBytes": 122571382,
-    "notes": "Report search and groups, table headings stay at the top, QC from every receipt with parameters from item fields and group/item plans, Ctrl+Up/Down copy, a code for every report, Quality and Jobwork as add-on modules, Mac-like animations.",
-    "publishedAt": "2026-11-06T03:55:17.806Z",
-    "sig": "MEUCIQDMja5mmhRLRs97L7AFhqM5drFFpTPBB360iTilG967xgIgaPDcHJn8A/EQ559xuCyO/eOBiz9rpjEKNPBEMXuP5wE=",
-    "sig2": "MEUCIQC6aLy1gOcVPJrnxwWcvu+q5ATofIY/aqZZt1PlWQcGxgIgYAooKBRW2sNcv7fItFFCl86mckJtLO3VoYoF3iOvdns="
+    "version": "2.50.28",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.28/Nexora-MSME-ERP-Setup-2.50.28.exe",
+    "sha256": "de2eb3632a1ee2aba68b677494fcdd25eb60be69e4fe173538b30b36869655b1",
+    "sizeBytes": 122586174,
+    "notes": "Mac-like animations phase 2 (dock grows and bounces, dialogs slide down, menus fade, smooth maximise), QC units and tolerance (± value / % / Fixed), QC plans by sub group, the item's own value as target at a new inspection.",
+    "publishedAt": "2026-11-07T05:48:25.498Z",
+    "sig": "MEYCIQDOuP0pPqHsSztLFBDjjuLsIeCCVRJNxivr0h1lYS0cSAIhAOefwgmbNgL1yibko0+xRY9bD1MLGLUYggC1i94dtNmI",
+    "sig2": "MEQCID0MnwjXWJ7LHBiqnItcGVrdHq+wnFwamnXsqqQ3lwumAiBmi0pYLCwVB52uMQ3CQIMA9llz2yqiCzj2AuU7d7r6hQ=="
   },
-  "updatedAt": "2026-11-06T03:55:17.806Z"
+  "updatedAt": "2026-11-07T05:48:25.498Z"
 }
