@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.32",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.32/Nexora-MSME-ERP-Setup-2.50.32.exe",
-    "sha256": "6e1122d96271f913d090b27fcdd89f6b80ecc168d231eb73a985b75c1755fd33",
-    "sizeBytes": 122637986,
-    "notes": "The QC Inspection's own certificate keeps the limits each batch was checked against, as the invoice / challan COA does.",
-    "publishedAt": "2026-11-12T06:05:42.264Z",
-    "sig": "MEUCIF1+uUFO28msStvVWkgAQwHVx7TQPTAv3OALAYpxhTWZAiEA/XNl1aX8OKMOb1sRwq29xKYuf9Rl3H0DGyBca4ryfjM=",
-    "sig2": "MEUCIQDCCePBDqlD7ddG+sw7eh+muuWa1MInRz8Ef/fTKQfbfQIgUsx42AlzbQcF/wJIE0mzgF4XT9HK03+ERHkaMj+HbLk="
+    "version": "2.50.33",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.33/Nexora-MSME-ERP-Setup-2.50.33.exe",
+    "sha256": "f7197637946fa2b6a61cff21c8d7e0e144ec907544741c8a99ca1dc26dbf4f9e",
+    "sizeBytes": 123245954,
+    "notes": "A stronger Nexora AI: Administration → Test Nexora AI (305 questions, 40 spoken), a spoken question as strong as a typed one, thumbs up / down under every answer.",
+    "publishedAt": "2026-11-12T17:23:12.167Z",
+    "sig": "MEYCIQDs3+Sv7qUh6V6AXKF6e7qRQUTm8SovsAEG0pgu7Is/CAIhAJKO2lA1WfanyZnKvifM3G2eDLc8rq06ihHYZMtNdOFH",
+    "sig2": "MEUCIQDRPmr6/3l+lANaafMLw9eIaOv57iWShdmJmjEztEcNOgIgI4EombZT81da19nt7h+TlPRglJ0owmwGZGgLUFtcxxs="
   },
-  "updatedAt": "2026-11-12T06:05:42.264Z"
+  "updatedAt": "2026-11-12T17:23:12.167Z"
 }
