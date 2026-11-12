@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.31",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.31/Nexora-MSME-ERP-Setup-2.50.31.exe",
-    "sha256": "608ca3258406f3ae8661b4435dcffde0ea5b17afc1aee7dbe5cf9ebfe3319080",
-    "sizeBytes": 122638274,
-    "notes": "Data integrity audit: 31 holes closed — warehouses holding stock keep their kind, document links set only by the service, production issue / return / close checks, QC plans, samples, stage and kept limits, certificate only for posted documents.",
-    "publishedAt": "2026-11-11T02:32:01.517Z",
-    "sig": "MEUCICXMhjkRGtEjUvlkALNSSqA+vHYyyzdJiNY3pIQu0/TxAiEA0gFBDiXyQC2q+dqvLOvW1IL0XB1k07VxkuoyRmQaAXw=",
-    "sig2": "MEQCIBuHlnIXo3ww+AurGT+vo8I5usUQdZt/F7W/ONhuxWIrAiBZVpwVIfE8wJIadrOLHaZde/PNwrVg1cAgaPlN5tWs1Q=="
+    "version": "2.50.32",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.32/Nexora-MSME-ERP-Setup-2.50.32.exe",
+    "sha256": "6e1122d96271f913d090b27fcdd89f6b80ecc168d231eb73a985b75c1755fd33",
+    "sizeBytes": 122637986,
+    "notes": "The QC Inspection's own certificate keeps the limits each batch was checked against, as the invoice / challan COA does.",
+    "publishedAt": "2026-11-12T06:05:42.264Z",
+    "sig": "MEUCIF1+uUFO28msStvVWkgAQwHVx7TQPTAv3OALAYpxhTWZAiEA/XNl1aX8OKMOb1sRwq29xKYuf9Rl3H0DGyBca4ryfjM=",
+    "sig2": "MEUCIQDCCePBDqlD7ddG+sw7eh+muuWa1MInRz8Ef/fTKQfbfQIgUsx42AlzbQcF/wJIE0mzgF4XT9HK03+ERHkaMj+HbLk="
   },
-  "updatedAt": "2026-11-11T02:32:01.517Z"
+  "updatedAt": "2026-11-12T06:05:42.264Z"
 }
