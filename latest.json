@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.35",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.35/Nexora-MSME-ERP-Setup-2.50.35.exe",
-    "sha256": "86061fa388fdd1c92c85a336963fd5bbe83fe8a065f4f15b633105e6b6140498",
-    "sizeBytes": 123266935,
-    "notes": "Nexora AI learns from use: a thumbs down, the question said again, a thumbs up — the word is yours at once, and everyone's after the administrator approves.",
-    "publishedAt": "2026-11-14T08:34:44.723Z",
-    "sig": "MEUCIHli7A37bzd+5eeadr1jtMLfVRrKOzkvNluSwDNLZmmeAiEAy+7QdQw8ZfbikX9ha0tZDkLG1J56HB1qusIYenRa12k=",
-    "sig2": "MEUCIQC/k1kZSVsT8+V3sCS5yaiETEVtIJjxVrzEsHXyoIZLkgIgFlD6JG8edCHa+euvDUtgd5Df+x29p3AMZFlMKvGiD74="
+    "version": "2.50.36",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.36/Nexora-MSME-ERP-Setup-2.50.36.exe",
+    "sha256": "306aed4e68df0f4f33fb570f6f16528c80a30a05920856732ead55870b546bfb",
+    "sizeBytes": 123306501,
+    "notes": "Nexora AI Watch: it watches stock, orders, payments and QC by itself and warns (the bell beside Nexora AI). Nexora AI also prepares more documents as drafts — GRPO, challan, invoice, quotation, transfer — for you to check and save.",
+    "publishedAt": "2026-11-14T17:24:31.167Z",
+    "sig": "MEUCIQCGWcySHMZKjN/rGSyX/vr1f1il5H0v8jgNY68Wk1NxtwIgZbj+6B3HACQDCUsjI4LWjQF6huhP/EmYnpY2mxmiank=",
+    "sig2": "MEQCIDoP9aaD076S+g98TUqgDSWlEMtGOdyXIH/E5UlDVGN1AiAKHVZJle3ZONJ9JnS4nPOfBP2P5QV1dgajKxI83de3pg=="
   },
-  "updatedAt": "2026-11-14T08:34:44.723Z"
+  "updatedAt": "2026-11-14T17:24:31.167Z"
 }
