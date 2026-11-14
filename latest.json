@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.36",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.36/Nexora-MSME-ERP-Setup-2.50.36.exe",
-    "sha256": "306aed4e68df0f4f33fb570f6f16528c80a30a05920856732ead55870b546bfb",
-    "sizeBytes": 123306501,
-    "notes": "Nexora AI Watch: it watches stock, orders, payments and QC by itself and warns (the bell beside Nexora AI). Nexora AI also prepares more documents as drafts — GRPO, challan, invoice, quotation, transfer — for you to check and save.",
-    "publishedAt": "2026-11-14T17:24:31.167Z",
-    "sig": "MEUCIQCGWcySHMZKjN/rGSyX/vr1f1il5H0v8jgNY68Wk1NxtwIgZbj+6B3HACQDCUsjI4LWjQF6huhP/EmYnpY2mxmiank=",
-    "sig2": "MEQCIDoP9aaD076S+g98TUqgDSWlEMtGOdyXIH/E5UlDVGN1AiAKHVZJle3ZONJ9JnS4nPOfBP2P5QV1dgajKxI83de3pg=="
+    "version": "2.50.37",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.37/Nexora-MSME-ERP-Setup-2.50.37.exe",
+    "sha256": "1504e64554a6429534e28beeb3813349873c99030c31f99bad326a8b2dba5fe3",
+    "sizeBytes": 123314434,
+    "notes": "Join another company: a computer whose company is stopped (suspended, cancelled, or removed by its administrator) can now leave it and join another company from the stopped screen.",
+    "publishedAt": "2026-11-14T18:25:32.830Z",
+    "sig": "MEUCIDYWp0ANhIBIwqOl+xiveWrZ0/rsibtVnYN0pSs07e7TAiEA9diz7mJaVr4NfEwUFwp1v63D8qkxSVTwuVnTPCmK5+I=",
+    "sig2": "MEQCIHmY58hiuIM3xUm3F1R1yXgukiIbqtILs3WnJ84trVhDAiAr+t0osU3xJFgJeAXd92Xya39Xln+PVDld7vycR8GKZA=="
   },
-  "updatedAt": "2026-11-14T17:24:31.167Z"
+  "updatedAt": "2026-11-14T18:25:32.830Z"
 }
