@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.33",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.33/Nexora-MSME-ERP-Setup-2.50.33.exe",
-    "sha256": "f7197637946fa2b6a61cff21c8d7e0e144ec907544741c8a99ca1dc26dbf4f9e",
-    "sizeBytes": 123245954,
-    "notes": "A stronger Nexora AI: Administration → Test Nexora AI (305 questions, 40 spoken), a spoken question as strong as a typed one, thumbs up / down under every answer.",
-    "publishedAt": "2026-11-12T17:23:12.167Z",
-    "sig": "MEYCIQDs3+Sv7qUh6V6AXKF6e7qRQUTm8SovsAEG0pgu7Is/CAIhAJKO2lA1WfanyZnKvifM3G2eDLc8rq06ihHYZMtNdOFH",
-    "sig2": "MEUCIQDRPmr6/3l+lANaafMLw9eIaOv57iWShdmJmjEztEcNOgIgI4EombZT81da19nt7h+TlPRglJ0owmwGZGgLUFtcxxs="
+    "version": "2.50.34",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.34/Nexora-MSME-ERP-Setup-2.50.34.exe",
+    "sha256": "f188171198dca526aed42cbe69abba0406ae877436b67e290489ee0fb59bc241",
+    "sizeBytes": 123257803,
+    "notes": "A stronger Nexora AI: understands questions in any wording, asks back with choices instead of guessing, spoken Gujarati / Hindi in their own script, windows opened in Gujarati / Hindi letters at once, and the test shows where the time goes.",
+    "publishedAt": "2026-11-14T06:53:37.385Z",
+    "sig": "MEYCIQCOg8Rw242hUwjZ1JIWeqOm8fk2bwqc2BK0alP+ctfnNwIhAMQKl5ejmBTtXdvOfXgLzLQJlxlGUhR4U7SUr4CL+mpd",
+    "sig2": "MEQCIEVZh0yoaPLbMo6v3WrdEEpEkClgnh8lbUMejSjQCF9DAiBrRObDn0TWGeI1Zd2t3XZV/hn2tG8kjPt/w2d2pLSGZQ=="
   },
-  "updatedAt": "2026-11-12T17:23:12.167Z"
+  "updatedAt": "2026-11-14T06:53:37.385Z"
 }
