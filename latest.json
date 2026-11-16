@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.38",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.38/Nexora-MSME-ERP-Setup-2.50.38.exe",
-    "sha256": "b3adeef428acb885d5b5e83aadbc04cf57be47687c95998d81817bc903003b1e",
-    "sizeBytes": 123332176,
-    "notes": "Authorizations window reads again (levels and Cancel ticks clear, light and dark). Reports are given module by module. A deep search in Authorizations finds a row by its windows, documents, fields, reports and rights.",
-    "publishedAt": "2026-11-15T17:15:09.207Z",
-    "sig": "MEUCIF2JP7q/d79OFeZ3cb5UqS+47iX1XYKznLSVlahVSCcsAiEAtx95yBTCTgVXgrDFVCUYyqh+acdYirUq2pzeKos95lQ=",
-    "sig2": "MEQCIASEXreTG6Jym8NapBdewirVQGOqGoyQjCJsYWqIzIiPAiACCudl8aT7oL02U5hqdk2Ol3MAd6z9vl53C+VNn1L0WQ=="
+    "version": "2.50.39",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.39/Nexora-MSME-ERP-Setup-2.50.39.exe",
+    "sha256": "be254598e64843a615fa42c17f27d1cfd7fb715363d1118d560377f5f26ff8bc",
+    "sizeBytes": 123338745,
+    "notes": "Nexora AI's searches of a module's records now need that module's reports row in Authorizations. Fixed-asset reports have a row of their own. The Level switch reads No access, Read only, Full on every row. Store, Production, Sales and Purchase roles get their own module's reports.",
+    "publishedAt": "2026-11-16T03:46:26.158Z",
+    "sig": "MEQCIBxqqWYqoklPePFWNdWoIXYtr52of0Q89308B8jYmDnqAiBNAYx1UywsMKPdm+H6iNwb7+lbwNNAswzyiPiY6kkaxA==",
+    "sig2": "MEYCIQDjpXErWw6zw+TWnAGFIq1bbXEuFDILYaxZIxwFj3Ai/gIhAL4DDqZD/8SNHz4NU998KpF1y6+VFDjtdRfpRVCkS9Eb"
   },
-  "updatedAt": "2026-11-15T17:15:09.207Z"
+  "updatedAt": "2026-11-16T03:46:26.158Z"
 }
