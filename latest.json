@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.40",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.40/Nexora-MSME-ERP-Setup-2.50.40.exe",
-    "sha256": "1512142e6334b783b5c47ff65bce81ac7f2a5e18deb25922ed5bd5d2602dacac",
-    "sizeBytes": 123390899,
-    "notes": "Test company: Fill Test now offers a finishing unit's sample month (fabric bought; Flexo printing, Finishing and Packing) beside the full cycle. The Machine Planner works section by section, with drag and drop, and a plan of a date is saved under its own number. A computer's delivered processes no longer overwrite a company's own.",
-    "publishedAt": "2026-11-16T19:33:20.075Z",
-    "sig": "MEUCIFIBT05SjdcWTP/9+mmhwInPpxzSPWjl1EDF1MKQ1WAJAiEA0SjGSqx+/KlICkXlLT1+8rbEsJAQqEapcqNo7aOzAWM=",
-    "sig2": "MEUCIQDj75z+pHOENA08LDkxkU4vD6jGLxl0HvGFgTbCOZZnxQIgTc0C6dv3Q0HOBRA/lZv4O3SQNJrt1ZbQbC1uCpwcYPI="
+    "version": "2.50.41",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.41/Nexora-MSME-ERP-Setup-2.50.41.exe",
+    "sha256": "22bf342bf972b054a35a055a0f3f0d30b08d7248f13904f38ce678a952a41ed2",
+    "sizeBytes": 123410933,
+    "notes": "Company Setup: the company's first steps in one place — modules, item groups, departments, warehouses, GST rates, payment terms, cash and bank accounts, expense heads — opened again from Administration, Setup. The usual lists are ticked and never added twice; a row the company already has can be taken out of use there.",
+    "publishedAt": "2026-11-19T09:36:38.002Z",
+    "sig": "MEQCIAQf/GBhcMvajZZkQzCoUwhOI9nK2FnDR0rkpGkNax3zAiB0WajR61qlxPak7qGoP0T/3KzexAEo0TEmkifP5s0LOg==",
+    "sig2": "MEYCIQCANFkxOW7aAToYbOiRpIO4BnJqiLojVpJXK0yldkkFIAIhAJhlPOY2AKXlX8HpsE8OZmVRKzvhL3KkZvK8Ef7lRQlD"
   },
-  "updatedAt": "2026-11-16T19:33:20.075Z"
+  "updatedAt": "2026-11-19T09:36:38.002Z"
 }
