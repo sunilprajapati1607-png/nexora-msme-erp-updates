@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.42",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.42/Nexora-MSME-ERP-Setup-2.50.42.exe",
-    "sha256": "70d6afd157aa0cea08b9acb3c2ffee430295b99f3315ecd133fdb8cdc2a7137d",
-    "sizeBytes": 123425188,
-    "notes": "Company Setup, Phase 2: Kind of plant, then Processes, Routes and Resources as steps. A process has its Active tick (Calculation - Processes): a finishing unit hides the processes it does not run; what already names a process keeps working and costs as before.",
-    "publishedAt": "2026-11-20T06:03:29.525Z",
-    "sig": "MEUCIAvL4XyTiZ6nzxRg5cuNH10py2TvckOL+uhZCzZi5K8AAiEAqaskFhcEuRwmgN2mh5Bu4FSCICQ9fXwV8uVXIfc+E0o=",
-    "sig2": "MEUCIBLIr5GE5184vr6742WEHn2MJzeVZbRqMANidv1tYzowAiEA97wwhArn3hbxelqufzeJb7vFcdt0k4DRKLuB8MXmuws="
+    "version": "2.50.43",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.43/Nexora-MSME-ERP-Setup-2.50.43.exe",
+    "sha256": "2d1baa169d17a980454e809f2fbb5ea4c45d8c26fc986b6dec1a3c6c2d3f3ef0",
+    "sizeBytes": 123439456,
+    "notes": "Company Setup, Phase 3: Document numbering, Rules and approvals, People and roles, and Opening as steps. A company already at work confirms its numbering with one Save; its rules read done as they are.",
+    "publishedAt": "2026-11-20T07:50:02.192Z",
+    "sig": "MEUCIQDSY92V9H/4iwXKVGDLnf438eqC2VOi0E9hHsp6v6KUmwIgVjRVdXoGl4LHI3Bi/GZshCRfDLIlmY5R9PIBPXXXBWY=",
+    "sig2": "MEUCIQDrxAXb3QtvkaFtbBHg9CWETC34HW8fjGrz5q/Pc0iAAAIgQq3D3RxbqDBLInXZwChP8AWzAQbBNNpNfDxCky3qklA="
   },
-  "updatedAt": "2026-11-20T06:03:29.525Z"
+  "updatedAt": "2026-11-20T07:50:02.192Z"
 }
