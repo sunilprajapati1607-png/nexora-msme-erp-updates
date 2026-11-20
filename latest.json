@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.44",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.44/Nexora-MSME-ERP-Setup-2.50.44.exe",
-    "sha256": "5314570cb819cb01eb03871cb2affd7dd9bec53a8b59fa79947c80a75b67b802",
-    "sizeBytes": 123440274,
-    "notes": "Opening Balances offers a bank account made a moment ago. The service notes, in figures only, where a question to Nexora AI spends its time.",
-    "publishedAt": "2026-11-20T08:47:47.903Z",
-    "sig": "MEUCIQD1NPPotvxNDliXxGrxqoOOb8/TPV2ppnLf60R7gVSYEQIgc5T8lGGkq8NfGVcim7WEJ4tOfzoHYS0Xea2uAEsRrQ4=",
-    "sig2": "MEQCICFRXpoS84ZMHBWhXXiG4Z6YGNFzkX2/gjL3xZuftUx3AiAF/cOkkWyPZlB8EMCebeRtUuUqCsWxvD29Bfjy1AlXLw=="
+    "version": "2.50.45",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.45/Nexora-MSME-ERP-Setup-2.50.45.exe",
+    "sha256": "199647d0b2734fa9f41fa1226a056a9de2766f5f45558065de364cff168f11bb",
+    "sizeBytes": 123444083,
+    "notes": "Nexora AI answers sooner: a question goes with this computer's own records at once, and the service is read only for what the answer's search names.",
+    "publishedAt": "2026-11-20T17:25:22.254Z",
+    "sig": "MEUCIEdqNcZ5JojOHqgoJ5KTHmL//j4klBDizkjNxalWtCT7AiEAhuQ5eiEpD0SKHxjJCBA8ALZGssEkQP8HypferPX9I1w=",
+    "sig2": "MEQCIBWaAere3vqUmjtxpD0wJf2leotrPC0B0UbumZyY8/OaAiATVbpBLK7dJyBDhlI26MP78BhGOeNMEun+OHQKiztpuA=="
   },
-  "updatedAt": "2026-11-20T08:47:47.903Z"
+  "updatedAt": "2026-11-20T17:25:22.254Z"
 }
