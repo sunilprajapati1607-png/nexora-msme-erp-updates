@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.43",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.43/Nexora-MSME-ERP-Setup-2.50.43.exe",
-    "sha256": "2d1baa169d17a980454e809f2fbb5ea4c45d8c26fc986b6dec1a3c6c2d3f3ef0",
-    "sizeBytes": 123439456,
-    "notes": "Company Setup, Phase 3: Document numbering, Rules and approvals, People and roles, and Opening as steps. A company already at work confirms its numbering with one Save; its rules read done as they are.",
-    "publishedAt": "2026-11-20T07:50:02.192Z",
-    "sig": "MEUCIQDSY92V9H/4iwXKVGDLnf438eqC2VOi0E9hHsp6v6KUmwIgVjRVdXoGl4LHI3Bi/GZshCRfDLIlmY5R9PIBPXXXBWY=",
-    "sig2": "MEUCIQDrxAXb3QtvkaFtbBHg9CWETC34HW8fjGrz5q/Pc0iAAAIgQq3D3RxbqDBLInXZwChP8AWzAQbBNNpNfDxCky3qklA="
+    "version": "2.50.44",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.44/Nexora-MSME-ERP-Setup-2.50.44.exe",
+    "sha256": "5314570cb819cb01eb03871cb2affd7dd9bec53a8b59fa79947c80a75b67b802",
+    "sizeBytes": 123440274,
+    "notes": "Opening Balances offers a bank account made a moment ago. The service notes, in figures only, where a question to Nexora AI spends its time.",
+    "publishedAt": "2026-11-20T08:47:47.903Z",
+    "sig": "MEUCIQD1NPPotvxNDliXxGrxqoOOb8/TPV2ppnLf60R7gVSYEQIgc5T8lGGkq8NfGVcim7WEJ4tOfzoHYS0Xea2uAEsRrQ4=",
+    "sig2": "MEQCICFRXpoS84ZMHBWhXXiG4Z6YGNFzkX2/gjL3xZuftUx3AiAF/cOkkWyPZlB8EMCebeRtUuUqCsWxvD29Bfjy1AlXLw=="
   },
-  "updatedAt": "2026-11-20T07:50:02.192Z"
+  "updatedAt": "2026-11-20T08:47:47.903Z"
 }
