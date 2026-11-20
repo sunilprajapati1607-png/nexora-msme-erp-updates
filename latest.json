@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.41",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.41/Nexora-MSME-ERP-Setup-2.50.41.exe",
-    "sha256": "22bf342bf972b054a35a055a0f3f0d30b08d7248f13904f38ce678a952a41ed2",
-    "sizeBytes": 123410933,
-    "notes": "Company Setup: the company's first steps in one place — modules, item groups, departments, warehouses, GST rates, payment terms, cash and bank accounts, expense heads — opened again from Administration, Setup. The usual lists are ticked and never added twice; a row the company already has can be taken out of use there.",
-    "publishedAt": "2026-11-19T09:36:38.002Z",
-    "sig": "MEQCIAQf/GBhcMvajZZkQzCoUwhOI9nK2FnDR0rkpGkNax3zAiB0WajR61qlxPak7qGoP0T/3KzexAEo0TEmkifP5s0LOg==",
-    "sig2": "MEYCIQCANFkxOW7aAToYbOiRpIO4BnJqiLojVpJXK0yldkkFIAIhAJhlPOY2AKXlX8HpsE8OZmVRKzvhL3KkZvK8Ef7lRQlD"
+    "version": "2.50.42",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.42/Nexora-MSME-ERP-Setup-2.50.42.exe",
+    "sha256": "70d6afd157aa0cea08b9acb3c2ffee430295b99f3315ecd133fdb8cdc2a7137d",
+    "sizeBytes": 123425188,
+    "notes": "Company Setup, Phase 2: Kind of plant, then Processes, Routes and Resources as steps. A process has its Active tick (Calculation - Processes): a finishing unit hides the processes it does not run; what already names a process keeps working and costs as before.",
+    "publishedAt": "2026-11-20T06:03:29.525Z",
+    "sig": "MEUCIAvL4XyTiZ6nzxRg5cuNH10py2TvckOL+uhZCzZi5K8AAiEAqaskFhcEuRwmgN2mh5Bu4FSCICQ9fXwV8uVXIfc+E0o=",
+    "sig2": "MEUCIBLIr5GE5184vr6742WEHn2MJzeVZbRqMANidv1tYzowAiEA97wwhArn3hbxelqufzeJb7vFcdt0k4DRKLuB8MXmuws="
   },
-  "updatedAt": "2026-11-19T09:36:38.002Z"
+  "updatedAt": "2026-11-20T06:03:29.525Z"
 }
