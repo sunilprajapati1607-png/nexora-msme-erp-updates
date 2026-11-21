@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.46",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.46/Nexora-MSME-ERP-Setup-2.50.46.exe",
-    "sha256": "2d35d3d221510268b6b362d3c092858e5b19117e873121d98d8ec692a7673d80",
-    "sizeBytes": 123454682,
-    "notes": "Company Setup, Phase 4: a window says what is not set up, with the link to that step of Company Setup. Nothing is stopped; once the set-up is finished nothing of this shows.",
-    "publishedAt": "2026-11-21T09:45:41.389Z",
-    "sig": "MEYCIQDa8IVJSKncPBOtBEKvzpI93XqlIksmmEOq/1N3umETWQIhALjdSVmmTJlkpvrEX48rwmfb4NBS0wDVsyiPtj0zNn8C",
-    "sig2": "MEQCIBveZlCkCLFu4W75KI1YEcgnLq7VDfDpV/Nc7NOXQ3y2AiAYFzYDALoJg02bfJIEHgPUsyxqXMbQodx/HXIa6Z+0Xg=="
+    "version": "2.50.47",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.47/Nexora-MSME-ERP-Setup-2.50.47.exe",
+    "sha256": "f7c27f1773e0eaa6883da45fd30dfd99dea0b218356ad22ac3a0481b830d93f3",
+    "sizeBytes": 123465366,
+    "notes": "A series that has given numbers keeps its look: to number differently, add a new series and make it the default. The action bar is dock-style: icons grow under the pointer.",
+    "publishedAt": "2026-11-21T16:46:02.460Z",
+    "sig": "MEQCIHoaGehLckoGFotvnuJzv490V39csNdEGPBWvbh4u+s3AiBucg2T8dH6kvMOqXJEG8JJ+RNbLATdsu7P4knFpLZDcg==",
+    "sig2": "MEQCIBsNr8x7makB4r3pQGEpyAUOUjI+KtNq9hoIsXcIhtqvAiAv9lULiK/E6Kvok4okliIcyFCFM+QQB1G3hLDk6XERlA=="
   },
-  "updatedAt": "2026-11-21T09:45:41.389Z"
+  "updatedAt": "2026-11-21T16:46:02.460Z"
 }
