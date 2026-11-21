@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.45",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.45/Nexora-MSME-ERP-Setup-2.50.45.exe",
-    "sha256": "199647d0b2734fa9f41fa1226a056a9de2766f5f45558065de364cff168f11bb",
-    "sizeBytes": 123444083,
-    "notes": "Nexora AI answers sooner: a question goes with this computer's own records at once, and the service is read only for what the answer's search names.",
-    "publishedAt": "2026-11-20T17:25:22.254Z",
-    "sig": "MEUCIEdqNcZ5JojOHqgoJ5KTHmL//j4klBDizkjNxalWtCT7AiEAhuQ5eiEpD0SKHxjJCBA8ALZGssEkQP8HypferPX9I1w=",
-    "sig2": "MEQCIBWaAere3vqUmjtxpD0wJf2leotrPC0B0UbumZyY8/OaAiATVbpBLK7dJyBDhlI26MP78BhGOeNMEun+OHQKiztpuA=="
+    "version": "2.50.46",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.46/Nexora-MSME-ERP-Setup-2.50.46.exe",
+    "sha256": "2d35d3d221510268b6b362d3c092858e5b19117e873121d98d8ec692a7673d80",
+    "sizeBytes": 123454682,
+    "notes": "Company Setup, Phase 4: a window says what is not set up, with the link to that step of Company Setup. Nothing is stopped; once the set-up is finished nothing of this shows.",
+    "publishedAt": "2026-11-21T09:45:41.389Z",
+    "sig": "MEYCIQDa8IVJSKncPBOtBEKvzpI93XqlIksmmEOq/1N3umETWQIhALjdSVmmTJlkpvrEX48rwmfb4NBS0wDVsyiPtj0zNn8C",
+    "sig2": "MEQCIBveZlCkCLFu4W75KI1YEcgnLq7VDfDpV/Nc7NOXQ3y2AiAYFzYDALoJg02bfJIEHgPUsyxqXMbQodx/HXIa6Z+0Xg=="
   },
-  "updatedAt": "2026-11-20T17:25:22.254Z"
+  "updatedAt": "2026-11-21T09:45:41.389Z"
 }
