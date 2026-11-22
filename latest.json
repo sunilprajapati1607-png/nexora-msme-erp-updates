@@ -1,14 +1,14 @@
 {
   "product": "Nexora MSME ERP",
   "desktop": {
-    "version": "2.50.47",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.47/Nexora-MSME-ERP-Setup-2.50.47.exe",
-    "sha256": "f7c27f1773e0eaa6883da45fd30dfd99dea0b218356ad22ac3a0481b830d93f3",
-    "sizeBytes": 123465366,
-    "notes": "A series that has given numbers keeps its look: to number differently, add a new series and make it the default. The action bar is dock-style: icons grow under the pointer.",
-    "publishedAt": "2026-11-21T16:46:02.460Z",
-    "sig": "MEQCIHoaGehLckoGFotvnuJzv490V39csNdEGPBWvbh4u+s3AiBucg2T8dH6kvMOqXJEG8JJ+RNbLATdsu7P4knFpLZDcg==",
-    "sig2": "MEQCIBsNr8x7makB4r3pQGEpyAUOUjI+KtNq9hoIsXcIhtqvAiAv9lULiK/E6Kvok4okliIcyFCFM+QQB1G3hLDk6XERlA=="
+    "version": "2.50.48",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-msme-erp-updates/releases/download/v2.50.48/Nexora-MSME-ERP-Setup-2.50.48.exe",
+    "sha256": "7390827bbae9975dbc1da6044f6fa6c5566f32da97d906d9e3c5892a7d646320",
+    "sizeBytes": 123471059,
+    "notes": "The Test company's sample month carries your Sales & Costing routes, processes and resources (no rates); take what you want into Live with Master data to Live.",
+    "publishedAt": "2026-11-22T06:29:13.455Z",
+    "sig": "MEYCIQDrtwTGSi1WHEUcPA3exm0mR2wwTJXu89tdosEVoYhzxgIhAPOJNAj7MJn90K1vlep80SXsagpXV09zxFW1uENi9qx3",
+    "sig2": "MEQCIHljv6zL5jnpvVcGmYipER+Gdq0SZ1Igpjwgx5WWfOW3AiB1j0czLFwFWKC2PnYEb5XJA3DK/HmmeJ23TqBynl46fg=="
   },
-  "updatedAt": "2026-11-21T16:46:02.460Z"
+  "updatedAt": "2026-11-22T06:29:13.455Z"
 }
